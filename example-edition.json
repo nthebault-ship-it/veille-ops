@@ -1,0 +1,137 @@
+{
+  "edition": {
+    "date": "2026-12-01",
+    "title": "Édition de novembre 2026",
+    "note": "Veille du 1er au 30 novembre 2026 : N opérations repérées (régies TV en priorité), dont N à vérifier."
+  },
+  "ops": [
+    {
+      "id": "exemple-marque-x-programme",
+      "chapter": "formats",
+      "edition": "2026-12-01",
+      "label": "Royaume-Uni · Channel 4 Sales · juin 2026",
+      "title": "Exemple × Programme",
+      "image": "",
+      "categories": [
+        "Personalization Power",
+        "Streaming Routine"
+      ],
+      "confidence": "Moyen",
+      "scores": [
+        6,
+        8,
+        9,
+        9,
+        8
+      ],
+      "facts": [
+        "Transforme une pub TV existante en format interactif sur le streaming, sans nouvelle production",
+        "4 formats : localisation, QR code, compte à rebours, carrousel de produits (technologie BrightLine)",
+        "Coût média : +3 £ de CPM ; première campagne en ligne en 5 jours ouvrés ; aucun résultat publié"
+      ],
+      "why": "Format publicitaire spécial sur l'inventaire streaming : la pub existante devient interactive.",
+      "forTF1": "Très transposable sur TF1+ : rend les spots existants actionnables à faible coût. À étudier avec les équipes produit et les partenaires techniques.",
+      "adaptations": "TV : spot réutilisé. TF1+ : version interactive. Annonceurs compatibles : retail, automobile, banque. Piste exploratoire.",
+      "sources": [
+        {
+          "label": "EGTA — cas créatif",
+          "url": "https://www.egta.com/channel-4-enhance/"
+        }
+      ],
+      "pitch": "N'importe quel spot TV devient interactif sur le streaming de Channel 4, sans tourner une image de plus.",
+      "context": {
+        "Annonceurs": "Solmar Villas, Easy Bathrooms (exemples)",
+        "Objectif": "Rendre les spots existants actionnables sur la TV connectée",
+        "Régie": "Channel 4 Sales · technologie BrightLine",
+        "Format": "Enhance, 4 formats CTV",
+        "Lancement": "Juin 2026"
+      },
+      "steps": [
+        "L'annonceur choisit un format : géolocalisation, QR code, compte à rebours ou carrousel produits.",
+        "Il fournit son spot validé et les éléments (lien, couleurs, appel à l'action).",
+        "Channel 4 gère tout : média, adaptation, validation Clearcast, mise en ligne.",
+        "Aucuns frais de production : +3 £ de CPM.",
+        "Mesure possible avec Adalyser (visites et conversions liées à la diffusion)."
+      ],
+      "results": [
+        {
+          "n": "5 jours",
+          "l": "ouvrés entre la réservation et la mise en ligne (Solmar)"
+        },
+        {
+          "n": "+3 £",
+          "l": "de CPM, sans frais de production"
+        }
+      ],
+      "insights": [
+        {
+          "t": "Zéro production",
+          "d": "La barrière à l'entrée disparaît : on réutilise le spot existant."
+        },
+        {
+          "t": "La TV devient cliquable",
+          "d": "QR code et carrousel transforment l'écran en point de contact."
+        },
+        {
+          "t": "Un parcours simple",
+          "d": "Un seul interlocuteur gère tout, de l'adaptation à la mesure."
+        }
+      ],
+      "concepts": [
+        {
+          "b": "Petit budget",
+          "t": "Le QR code TF1+",
+          "d": "Ajouter un QR code et un appel à l'action à un spot existant sur TF1+, pour un surcoût de CPM."
+        },
+        {
+          "b": "Budget moyen",
+          "t": "Le compte à rebours",
+          "d": "Un habillage compte à rebours pour les soldes ou les lancements, sur l'inventaire streaming."
+        },
+        {
+          "b": "Opération signature",
+          "t": "La gamme interactive",
+          "d": "Une offre packagée de formats CTV interactifs avec un partenaire technique et une mesure des conversions."
+        }
+      ],
+      "partners": "Channel 4 Sales, BrightLine, Clearcast, Adalyser",
+      "quote": {
+        "q": "Enhance is a pivotal addition to our product suite.",
+        "who": "David Amodio, Channel 4"
+      },
+      "scope": "regie"
+    }
+  ],
+  "chapters": {
+    "formats": {
+      "question": "Comment réinventer l'écran publicitaire avec la tech et l'IA ?",
+      "retain": {
+        "summary": "La publicité elle-même peut devenir un événement : en changeant de forme, avec une coupure annoncée, du clic ou de l'IA, elle regagne l'attention sans produire plus.",
+        "points": [
+          {
+            "t": "La coupure devient un rendez-vous",
+            "d": "Chez Ster, le bloc de Noël gagne +120 % de visionnage différé ; BMW offre deux minutes sans coupure.",
+            "ops": [
+              "ster-bloc-de-pub-de-noel-en-prime-time",
+              "bmw-ix3-le-compte-a-rebours"
+            ]
+          },
+          {
+            "t": "Zéro production en plus",
+            "d": "Channel 4 Enhance rend un spot existant cliquable en 5 jours ouvrés, sans frais de production.",
+            "ops": [
+              "channel-4-enhance"
+            ]
+          },
+          {
+            "t": "L'IA baisse le ticket d'entrée",
+            "d": "M6 Unlimited produit un spot par l'IA pour une petite marque et le teste avant diffusion : un signal concurrent direct.",
+            "ops": [
+              "m6-spots-crees-par-l-ia"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
