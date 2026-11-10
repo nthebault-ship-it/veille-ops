@@ -295,3 +295,7 @@ Le site affiche l'étiquette « Régie » ou « Inspiration » sur chaque carte,
 **Sources** : celles déjà fournies (EGTA, presse de Channel 4, Adweek), puis aussi les sites et communiqués des régies concurrentes (Ad Alliance/RTL, ITV, Channel 4, Sky Media, M6 Unlimited, Sanoma, DPG Media, Ster, CANAL+ Brand Solutions, CBC), The Drum, Campaign, Ad Age, Marketing Week, Digiday, TVBEurope, Stratégies, CB News, Mediapost. Toujours citer l'URL exacte.
 
 **Contrôle avant publication** : JSON valide, `id` uniques, au moins une source par opération, scores 0–10 sur les 5 axes, `chapter` existant, aucune opération supprimée par rapport à la version précédente.
+
+---
+## Règle de fraîcheur (V14)
+Ne retenir que des opérations lancées ou publiées dans les 60 derniers jours avant la date de la veille (le mois écoulé + le mois d'avant). Rien d'antérieur, même excellent. Le `label` porte la date précise ; elle doit être dans la fenêtre.
