@@ -1,0 +1,1106 @@
+{
+  "edition": {
+    "date": "2026-11-11",
+    "title": "Édition du 11 novembre 2026",
+    "note": "Veille du 11 septembre au 10 novembre 2026 : 11 opérations repérées, toutes de régies TV (Channel 4, M6 Unlimited, ITV, Seven.One Media, Ad Alliance), dont 2 à vérifier."
+  },
+  "ops": [
+    {
+      "id": "sol-de-janeiro-the-guest-list",
+      "chapter": "contenu",
+      "edition": "2026-11-11",
+      "label": "Royaume-Uni · Channel 4 Sales · 13 oct. 2026 (diffusion dès le 24 oct.)",
+      "title": "Sol de Janeiro × The Guest List",
+      "image": "",
+      "categories": [
+        "Brand Entertainment",
+        "Brand Fandoms"
+      ],
+      "confidence": "Élevé",
+      "scores": [
+        8,
+        8,
+        8,
+        6,
+        8
+      ],
+      "pitch": "Une série verticale de fiction où chaque héroïne incarne un parfum de la marque : Channel 4 vend un micro-drame, pas un spot.",
+      "facts": [
+        "Première série verticale de marque de Channel 4 : « The Guest List », 5 épisodes courts, en ligne dès le 24 octobre 2026 sur les comptes Meta, TikTok et YouTube de Channel 4",
+        "Le récit passe par le groupe de discussion de quatre amies d'une vingtaine d'années à Londres ; chaque personnage s'inspire d'un parfum de la gamme Intense Mist de Sol de Janeiro",
+        "Produite par curly media, partenariat négocié par Zenith UK ; aucun chiffre d'audience ni de budget publié"
+      ],
+      "why": "La régie commissionne une fiction conçue autour de la marque : le produit inspire les personnages au lieu d'être montré dans un spot.",
+      "forTF1": "Très transposable pour TF1+ et les réseaux sociaux de TF1 : le micro-drame vertical cible les 25-45 ans à faible coût de production. Points de vigilance : droits des comédiens, séparation éditoriale et commerciale, mentions du partenariat de marque, casting à valider avec les équipes de fiction.",
+      "adaptations": "TV : bande-annonce en coupure. TF1+ : mini-série verticale de marque. Social : épisodes sur TikTok, Instagram, YouTube. Terrain : événement avec les héroïnes. Annonceurs compatibles : beauté, parfum, mode. Piste exploratoire.",
+      "sources": [
+        {
+          "label": "Channel 4 — communiqué de presse (13 oct. 2026)",
+          "url": "https://www.channel4.com/press/news/channel-4-commissions-its-first-vertical-drama-series-partnership-sol-de-janeiro"
+        },
+        {
+          "label": "VideoWeek — Channel 4 announces first branded microdrama (14 oct. 2026)",
+          "url": "https://videoweek.com/2026/10/14/channel-4-announces-first-branded-microdrama-in-latest-digital-push/"
+        }
+      ],
+      "context": {
+        "Annonceur": "Sol de Janeiro (beauté et parfum)",
+        "Régie": "Channel 4 Sales, partenariat négocié par Zenith UK",
+        "Format": "Série de micro-drame vertical, 5 épisodes",
+        "Production": "curly media",
+        "Plateformes": "Meta, TikTok et YouTube de Channel 4",
+        "Période": "Annonce le 13 oct. 2026, diffusion dès le 24 oct."
+      },
+      "steps": [
+        "Channel 4 commissionne avec Sol de Janeiro une série verticale en 5 épisodes courts (annonce le 13 octobre 2026).",
+        "L'histoire suit quatre amies de Londres à travers leur groupe de discussion : carrières, nouvelles romances, sorties.",
+        "Chaque personnage s'inspire d'un parfum de la gamme Intense Mist.",
+        "curly media produit la série, avec un casting de comédiennes (Deba Hekmat, Jadesola Odunjo, Mia Ito Smith, Felicity Ali).",
+        "Mise en ligne dès le 24 octobre sur Meta, TikTok et YouTube de Channel 4."
+      ],
+      "results": [],
+      "insights": [
+        {
+          "t": "Le produit devient un personnage",
+          "d": "Le parfum n'est pas démontré : il donne sa personnalité à chaque héroïne."
+        },
+        {
+          "t": "Le format du moment",
+          "d": "Le micro-drame vertical parle aux jeunes femmes sur les plateformes où elles sont déjà."
+        },
+        {
+          "t": "La régie comme studio",
+          "d": "Channel 4 commissionne et produit : la marque achète une idée, pas seulement de l'espace."
+        }
+      ],
+      "concepts": [
+        {
+          "b": "Petit budget",
+          "t": "Le groupe de discussion",
+          "d": "Une mini-série verticale de 5 épisodes sur TF1+ et TikTok, avec des talents issus de l'univers d'une fiction ou d'une quotidienne TF1 à valider."
+        },
+        {
+          "b": "Budget moyen",
+          "t": "Une héroïne, un produit",
+          "d": "Une marque de beauté inspire les personnages d'une fiction courte, avec un épisode bonus en clin d'œil à Star Academy."
+        },
+        {
+          "b": "Opération signature",
+          "t": "La saison de marque",
+          "d": "Une série verticale en plusieurs saisons, lancée en coupure TF1 et prolongée sur TF1+ et les réseaux, avec événement terrain."
+        }
+      ],
+      "partners": "Channel 4, Sol de Janeiro, curly media, Zenith UK",
+      "scope": "regie"
+    },
+    {
+      "id": "carrefour-m6-collection-hack6",
+      "chapter": "formats",
+      "edition": "2026-11-11",
+      "label": "France · M6 Unlimited · annonce du 5 oct. 2026",
+      "title": "Carrefour × M6+ : collection et HACK6",
+      "image": "",
+      "categories": [
+        "Hacking Culture",
+        "Brand Entertainment"
+      ],
+      "confidence": "Élevé",
+      "scores": [
+        7,
+        7,
+        9,
+        8,
+        8
+      ],
+      "pitch": "Carrefour détourne l'écran d'accueil de M6+ et y ouvre une page « famille » pour son Mois Monopoly : la marque s'installe dans la navigation.",
+      "facts": [
+        "Première collection exclusive d'une marque sur M6+ : une page dédiée à l'univers familial, créée avec Carrefour pour le retour du jeu « Le Mois Monopoly »",
+        "Format HACK6 : une transition animée de 10 secondes sur l'écran d'accueil de M6+, suivie d'un spot Carrefour de 15 secondes",
+        "Relais sur Facebook, Instagram et X ainsi que sur M6+ (mise en avant éditoriale, newsletter, jingle, bannières) ; aucun chiffre de performance publié. La page indique une campagne du 8 sept. au 12 oct., soit un début antérieur à l'annonce du 5 oct."
+      ],
+      "why": "Un dispositif conçu pour la marque : une page éditoriale dédiée et un format qui détourne l'écran d'accueil, au-delà de la diffusion d'un spot.",
+      "forTF1": "Très transposable sur TF1+ : une page « collection » de marque et un détournement de l'accueil pour les temps forts (jeux concours, retail). Points de vigilance : séparation éditoriale et commerciale, ergonomie de l'accueil, données personnelles pour les jeux.",
+      "adaptations": "TV : spot de relais. TF1+ : page de marque et habillage d'accueil. Social : relais sur les comptes TF1. Terrain : jeu en magasin. Annonceurs compatibles : grande distribution, jeux, famille. Piste exploratoire.",
+      "quote": {
+        "q": "un univers éditorial affinitaire et fédérateur autour de la famille",
+        "who": "M6 Unlimited, communiqué du 5 oct. 2026"
+      },
+      "sources": [
+        {
+          "label": "M6 Unlimited — communiqué Carrefour (5 oct. 2026)",
+          "url": "https://m6unlimited.fr/m6-unlimited-innove-avec-une-premiere-collection-inedite-sur-m6-pour-carrefour/"
+        },
+        {
+          "label": "The Media Leader FR — M6 Unlimited et Carrefour lancent une collection sur M6+",
+          "url": "https://fr.themedialeader.com/m6-unlimited-et-carrefour-lancent-une-collection-sur-m6/"
+        }
+      ],
+      "context": {
+        "Annonceur": "Carrefour",
+        "Objectif": "Accompagner le retour du jeu « Le Mois Monopoly »",
+        "Régie": "M6 Unlimited, avec Arena Média et Havas play",
+        "Format": "Page collection sur M6+ et format HACK6",
+        "Période": "Annonce le 5 oct. 2026 (campagne du 8 sept. au 12 oct. selon la page)"
+      },
+      "steps": [
+        "M6 Unlimited crée sur M6+ une page collection dédiée à l'univers de la famille, avec Carrefour.",
+        "Le format HACK6 détourne l'écran d'accueil : transition animée de 10 secondes puis spot de 15 secondes.",
+        "Des relais sociaux sont activés sur les comptes M6 et M6+ (Facebook, Instagram, X).",
+        "Sur M6+, mise en avant éditoriale, newsletter, jingle et bannières accompagnent la page."
+      ],
+      "results": [],
+      "insights": [
+        {
+          "t": "La plateforme comme décor",
+          "d": "La marque entre dans la navigation, pas seulement dans la coupure."
+        },
+        {
+          "t": "Un thème, pas un produit",
+          "d": "La famille donne un cadre éditorial à un jeu promotionnel."
+        },
+        {
+          "t": "Un dispositif empilé",
+          "d": "Accueil, page, newsletter et social se renforcent sans production lourde."
+        }
+      ],
+      "concepts": [
+        {
+          "b": "Petit budget",
+          "t": "L'accueil détourné",
+          "d": "Un habillage animé de l'écran d'accueil de TF1+ de quelques secondes, suivi d'un spot, pour une promotion retail."
+        },
+        {
+          "b": "Budget moyen",
+          "t": "La collection de marque",
+          "d": "Une page TF1+ thématique (famille, cuisine) autour de programmes TF1 choisis et d'une marque partenaire."
+        },
+        {
+          "b": "Opération signature",
+          "t": "Le mois jeu",
+          "d": "Un jeu national relayé en antenne, sur TF1+ et en magasin, avec page de marque et temps forts dans une quotidienne TF1."
+        }
+      ],
+      "partners": "M6 Unlimited, Carrefour, Arena Média, Havas play",
+      "scope": "regie"
+    },
+    {
+      "id": "fitness-park-habillage-wallet",
+      "chapter": "formats",
+      "edition": "2026-11-11",
+      "label": "France · M6 Unlimited · 14 sept. 2026 (campagne du 24 août au 30 sept.)",
+      "title": "Fitness Park : l'Habillage Wallet",
+      "image": "",
+      "categories": [
+        "Personalization Power",
+        "Streaming Routine"
+      ],
+      "confidence": "Élevé",
+      "scores": [
+        6,
+        7,
+        9,
+        8,
+        8
+      ],
+      "pitch": "Un QR code dans le spot permet de glisser l'offre de la marque directement dans le wallet du smartphone.",
+      "facts": [
+        "Nouveau format publicitaire de M6 Unlimited, conçu par Adways, inauguré par Fitness Park pour sa toute première campagne avec ce format",
+        "Pendant le spot, une incrustation invite à scanner un QR code ; l'offre promotionnelle s'ajoute au wallet du smartphone en un geste",
+        "Disponible sur les trois écrans (TV connectée et OTT) ; campagne du 24 août au 30 septembre 2026 ; aucun résultat publié"
+      ],
+      "why": "Format publicitaire spécial qui transforme le spot en action immédiate : l'offre quitte l'écran pour le téléphone.",
+      "forTF1": "Transposable sur TF1+ et la TV connectée pour promotions, ouvertures et fidélité. Points de vigilance : lisibilité du QR code sur grand écran, données personnelles, compatibilité avec les wallets des annonceurs.",
+      "adaptations": "TV : spot avec incrustation. TF1+ : format interactif sur TV connectée. Social : relais de l'offre. Terrain : scan en magasin. Annonceurs compatibles : retail, loisirs, banque. Piste exploratoire.",
+      "quote": {
+        "q": "toute première campagne utilisant ce format publicitaire innovant",
+        "who": "M6 Unlimited, communiqué du 14 sept. 2026"
+      },
+      "sources": [
+        {
+          "label": "M6 Unlimited — Fitness Park inaugure l'Habillage Wallet",
+          "url": "https://m6unlimited.fr/fitness-park-inaugure-l-habillage-wallet-le-nouveau-format-publicitaire-de-m6-unlimited/"
+        }
+      ],
+      "context": {
+        "Annonceur": "Fitness Park",
+        "Régie": "M6 Unlimited, avec l'agence Cospirit",
+        "Format": "Habillage Wallet (conçu par Adways)",
+        "Écrans": "TV connectée et OTT",
+        "Période": "Du 24 août au 30 sept. 2026, annoncé le 14 sept."
+      },
+      "steps": [
+        "Le spot est diffusé avec une incrustation invitant à scanner un QR code.",
+        "Le spectateur scanne le code avec son smartphone.",
+        "L'offre promotionnelle s'ajoute au wallet du téléphone en un simple geste.",
+        "Le format convient aux promotions, lancements d'offres, grands événements et programmes de fidélité (selon la régie)."
+      ],
+      "results": [],
+      "insights": [
+        {
+          "t": "Du spot à l'action",
+          "d": "L'offre quitte l'écran en quelques secondes."
+        },
+        {
+          "t": "Un geste connu",
+          "d": "Le wallet est un réflexe : pas besoin d'application."
+        },
+        {
+          "t": "Un format réutilisable",
+          "d": "Un seul format sert à toutes les promotions, avec peu de production."
+        }
+      ],
+      "concepts": [
+        {
+          "b": "Petit budget",
+          "t": "Le coupon dans la poche",
+          "d": "Un spot TF1+ avec QR code qui ajoute un bon de réduction au wallet, pour une promotion ponctuelle."
+        },
+        {
+          "b": "Budget moyen",
+          "t": "La carte de fidélité TF1+",
+          "d": "Un habillage wallet intégré aux pauses d'une quotidienne, avec une offre de saison."
+        },
+        {
+          "b": "Opération signature",
+          "t": "Le pass événement",
+          "d": "Un billet ou un pass ajouté au wallet pendant une soirée spéciale TF1, par exemple Danse avec les stars."
+        }
+      ],
+      "partners": "M6 Unlimited, Fitness Park, Cospirit, Adways",
+      "scope": "regie"
+    },
+    {
+      "id": "made-in-france-saison-2-m6",
+      "chapter": "contenu",
+      "edition": "2026-11-11",
+      "label": "France · M6 Unlimited · annonce du 6 nov. 2026 (diffusion dès le 9 nov.)",
+      "title": "Made in France : ils inventent l'industrie de demain (saison 2)",
+      "image": "",
+      "categories": [
+        "Brand Entertainment",
+        "RSE Show"
+      ],
+      "confidence": "Élevé",
+      "scores": [
+        7,
+        6,
+        8,
+        5,
+        7
+      ],
+      "pitch": "Un programme de compétition d'apprentis, produit par l'agence de la régie, pour redonner envie des métiers de l'industrie.",
+      "facts": [
+        "Saison 2 de « Made in France : ils inventent l'industrie de demain » sur M6 : 4 épisodes de 26 minutes le samedi matin du 21 novembre au 12 décembre, intégrale le 19 décembre",
+        "Capsules d'une minute sur les cinq apprentis et leurs mentors du 9 novembre au 12 décembre, à l'antenne et sur M6+ ; quatre contenus exclusifs présentés par Jean-Michel Karam",
+        "Partenaires institutionnels : Bpifrance (via La French Fab) et OPCO 2i (via Avec l'Industrie) ; programme porté par M6&Beyond, l'agence créative de M6 Unlimited"
+      ],
+      "why": "Programme conçu pour des partenaires, avec un casting, des capsules et un prolongement sur la plateforme : un vrai contenu de marque produit par la régie.",
+      "forTF1": "Modèle de programme court de cause ou de filière, finançable par des institutions et des marques. Points de vigilance : partenaires institutionnels (et non marques classiques), indépendance éditoriale, rôle du jury, création d'une grille adaptée.",
+      "adaptations": "TV : programme court en journée ou week-end. TF1+ : capsules et contenus exclusifs. Social : portraits des candidats. Terrain : finale en public. Annonceurs compatibles : industrie, formation, banque, énergie. Piste exploratoire.",
+      "quote": {
+        "q": "Chez Bpifrance, nous croyons profondément que cette réindustrialisation se gagnera aussi dans les cœurs et les vocations.",
+        "who": "Nicolas Dufourcq, directeur général de Bpifrance"
+      },
+      "sources": [
+        {
+          "label": "M6 Unlimited — communiqué saison 2 de Made in France (6 nov. 2026)",
+          "url": "https://m6unlimited.fr/la-french-fab-et-avec-lindustrie-accompagnes-par-m6-unlimited-renouvellent-leur-engagement-autour-dune-deuxieme-saison-de-made-in-france-ils-inventent-lindustrie-de-demain-sur-m6/"
+        }
+      ],
+      "context": {
+        "Partenaires": "Bpifrance (La French Fab), OPCO 2i (Avec l'Industrie)",
+        "Régie": "M6 Unlimited, production M6&Beyond",
+        "Programme": "Compétition de cinq apprentis, jury, mentors",
+        "Format": "4 × 26 min, capsules d'1 min, contenus exclusifs",
+        "Période": "Du 9 nov. au 19 déc. 2026"
+      },
+      "steps": [
+        "Cinq apprentis de secteurs variés (santé, environnement, robotique, cosmétique) portent chacun un projet innovant.",
+        "Des mentors les accompagnent ; des capsules d'une minute les présentent à l'antenne et sur M6+ dès le 9 novembre.",
+        "Quatre épisodes de 26 minutes sont diffusés le samedi matin du 21 novembre au 12 décembre.",
+        "En finale, chaque apprenti pitche deux minutes devant le jury ; le gagnant reçoit 5 000 euros.",
+        "Quatre contenus exclusifs sont présentés par Jean-Michel Karam, issu de « Qui veut être mon associé ? »."
+      ],
+      "results": [
+        {
+          "n": "1,5 million",
+          "l": "de téléspectateurs pour la compétition de la saison 1 (chiffre du communiqué)"
+        }
+      ],
+      "insights": [
+        {
+          "t": "Un programme, pas un spot",
+          "d": "Casting, jury et finale donnent un récit complet aux partenaires."
+        },
+        {
+          "t": "Des capsules pour durer",
+          "d": "Les formats d'une minute prolongent le programme avant et après."
+        },
+        {
+          "t": "Un talent connu en renfort",
+          "d": "Un visage du paysage business crédibilise le sujet."
+        }
+      ],
+      "concepts": [
+        {
+          "b": "Petit budget",
+          "t": "Les apprentis en capsules",
+          "d": "Des portraits d'une minute sur TF1+ et en coupure, portés par une filière ou un annonceur formation."
+        },
+        {
+          "b": "Budget moyen",
+          "t": "Le concours de l'avenir",
+          "d": "Une compétition courte en week-end sur TF1, produite pour des partenaires, avec jury et finale."
+        },
+        {
+          "b": "Opération signature",
+          "t": "La saison de filière",
+          "d": "Un programme récurrent soutenu par plusieurs partenaires, décliné en capsules, contenus exclusifs sur TF1+ et finale en public."
+        }
+      ],
+      "partners": "M6 Unlimited, M6&Beyond, Bpifrance, La French Fab, OPCO 2i, Avec l'Industrie",
+      "scope": "regie"
+    },
+    {
+      "id": "channel-4-instant-re4ch",
+      "chapter": "formats",
+      "edition": "2026-11-11",
+      "label": "Royaume-Uni · Channel 4 Sales · 15 oct. 2026 (disponible dès janv. 2027)",
+      "title": "Channel 4 : Instant Re4ch",
+      "image": "",
+      "categories": [
+        "Streaming Routine"
+      ],
+      "confidence": "Élevé",
+      "scores": [
+        5,
+        6,
+        8,
+        5,
+        8
+      ],
+      "pitch": "Un seul point d'achat pour couvrir en 48 heures la télé, le streaming et YouTube de deux groupes publics.",
+      "facts": [
+        "Offre publicitaire annoncée le 15 octobre 2026, disponible pour les annonceurs à partir de janvier 2027",
+        "Créneaux garantis aux heures de forte audience le même soir sur les chaînes linéaires de Channel 4, Paramount, UKTV et Narrative",
+        "Deux campagnes « boost » de 48 heures : sur les plateformes de streaming, puis sur plus de 30 chaînes YouTube de Channel 4 ; aucun résultat publié"
+      ],
+      "why": "Offre packagée qui change la façon d'acheter l'écran : couverture rapide et coordonnée sur plusieurs supports. Opération moins créative que les autres fiches, retenue comme signal concurrent.",
+      "forTF1": "Signal concurrent : une régie qui vend un point d'achat unique et un effet de couverture en 48 heures. Pour TF1 PUB, piste de package coordonné antenne, TF1+ et réseaux sociaux. Points de vigilance : lien avec les conditions de vente, disponibilité des espaces, absence de création spécifique.",
+      "adaptations": "TV : créneaux garantis en prime time. TF1+ : boost de 48 heures. Social : boost sur les chaînes YouTube du groupe. Annonceurs compatibles : lancements, retail, automobile. Piste exploratoire.",
+      "quote": {
+        "q": "marks the first time in Europe that advertisers can access two public service broadcasters through a single buying point.",
+        "who": "David Amodio, Head of Sales, Channel 4"
+      },
+      "sources": [
+        {
+          "label": "Channel 4 — communiqué Instant Re4ch (15 oct. 2026)",
+          "url": "https://www.channel4.com/press/news/channel-4-sales-launches-instant-re4ch-it-scales-advertising-opportunities-across-its"
+        },
+        {
+          "label": "Advanced Television — Channel 4 Sales unveils Instant Re4ch",
+          "url": "https://www.advanced-television.com/2026/10/15/channel-4-sales-unveils-instant-re4ch/"
+        }
+      ],
+      "context": {
+        "Régie": "Channel 4 Sales",
+        "Périmètre": "Channel 4, Paramount, UKTV, Narrative, YouTube de Channel 4",
+        "Format": "Offre « Instant Re4ch » : créneaux garantis et deux boosts de 48 h",
+        "Contexte": "Channel 4 Sales sera partenaire exclusif de Paramount au Royaume-Uni à partir de 2027",
+        "Disponibilité": "Janvier 2027"
+      },
+      "steps": [
+        "Planification prioritaire sur l'ensemble du portefeuille de Channel 4 Sales.",
+        "Créneaux garantis le même soir aux heures de forte audience sur les chaînes linéaires du portefeuille.",
+        "Un boost de 48 heures sur les plateformes de streaming de Channel 4, Paramount et UKTV.",
+        "Un second boost de 48 heures sur les chaînes YouTube de Channel 4."
+      ],
+      "results": [
+        {
+          "n": "48 h",
+          "l": "durée de chacune des deux campagnes boost (streaming, puis YouTube)"
+        },
+        {
+          "n": "30+",
+          "l": "chaînes YouTube de Channel 4 concernées par le boost"
+        }
+      ],
+      "insights": [
+        {
+          "t": "Un achat, plusieurs écrans",
+          "d": "L'annonceur évite de négocier chaque support séparément."
+        },
+        {
+          "t": "La vitesse comme argument",
+          "d": "48 heures suffisent pour créer un pic de visibilité."
+        },
+        {
+          "t": "Le portefeuille comme produit",
+          "d": "La régie vend la puissance de son écosystème élargi."
+        }
+      ],
+      "concepts": [
+        {
+          "b": "Petit budget",
+          "t": "Le pic de 48 heures",
+          "d": "Un boost de deux jours sur TF1+ et les réseaux de TF1, adossé à un temps fort de la grille."
+        },
+        {
+          "b": "Budget moyen",
+          "t": "Le même soir partout",
+          "d": "Un package garantissant l'antenne, TF1+ et les chaînes du groupe le même soir pour un lancement."
+        },
+        {
+          "b": "Opération signature",
+          "t": "Le lancement coordonné",
+          "d": "Une offre packagée de couverture instantanée autour d'un événement TF1, avec point d'achat unique."
+        }
+      ],
+      "partners": "Channel 4 Sales, Paramount, UKTV, Narrative, YouTube",
+      "scope": "regie"
+    },
+    {
+      "id": "a-comedy-thing-movember",
+      "chapter": "contenu",
+      "edition": "2026-11-11",
+      "label": "Royaume-Uni · Channel 4 (A Comedy Thing) · 1er oct. 2026",
+      "title": "Movember × Guess The Moustache",
+      "image": "",
+      "categories": [
+        "Brand Entertainment",
+        "RSE Show"
+      ],
+      "confidence": "Élevé",
+      "scores": [
+        7,
+        5,
+        7,
+        8,
+        5
+      ],
+      "pitch": "Un jeu de comédiens où l'on cherche la vraie moustache parmi les fausses : le symbole de Movember devient le format.",
+      "facts": [
+        "Édition spéciale de « Guess The Moustache », première collaboration de marque de la chaîne digitale A Comedy Thing de Channel 4, en ligne le 4 octobre 2026",
+        "Trois humoristes (Vittorio Angelone, Finlay Christie, Ed Night) doivent retrouver une vraie moustache parmi des fausses très crédibles",
+        "Diffusé sur YouTube et les réseaux d'A Comedy Thing ; produit par Strong Watch Studios ; aucun résultat publié"
+      ],
+      "why": "Le jeu existant est adapté autour du symbole de la marque : une vraie création éditoriale sur un format qui plaît déjà à l'audience.",
+      "forTF1": "Modèle simple et réplicable : adapter un format court existant d'une chaîne digitale à une cause ou une marque. Points de vigilance : cause à fort enjeu (santé), cohérence avec l'audience, séparation éditoriale et commerciale.",
+      "adaptations": "TV : relais en coupure. TF1+ : édition spéciale d'un format court. Social : YouTube et TikTok TF1. Terrain : action en novembre. Annonceurs compatibles : santé, assurance, cause. Piste exploratoire.",
+      "sources": [
+        {
+          "label": "Channel 4 — communiqué A Comedy Thing × Movember (1er oct. 2026)",
+          "url": "https://www.channel4.com/press/news/channel-4s-comedy-thing-teams-movember-first-ever-branded-partnership"
+        }
+      ],
+      "context": {
+        "Partenaire": "Movember (association de santé masculine)",
+        "Régie": "Channel 4 et sa chaîne digitale A Comedy Thing",
+        "Format": "Édition spéciale du jeu « Guess The Moustache »",
+        "Production": "Strong Watch Studios",
+        "Période": "Communiqué du 1er oct. 2026, mise en ligne le 4 oct."
+      },
+      "steps": [
+        "Channel 4 et A Comedy Thing associent Movember au jeu « Guess The Moustache ».",
+        "Trois humoristes tentent de repérer la vraie moustache dans une série de fausses.",
+        "L'épisode est produit par Strong Watch Studios.",
+        "Mise en ligne sur YouTube et les réseaux d'A Comedy Thing le 4 octobre."
+      ],
+      "results": [
+        {
+          "n": "60 %",
+          "l": "d'hommes dans l'audience YouTube d'A Comedy Thing"
+        },
+        {
+          "n": "58 %",
+          "l": "de moins de 35 ans dans l'audience YouTube d'A Comedy Thing"
+        }
+      ],
+      "insights": [
+        {
+          "t": "Un symbole devenu règle du jeu",
+          "d": "La moustache est à la fois le thème et la mécanique."
+        },
+        {
+          "t": "Une audience qui colle à la cause",
+          "d": "Le public de la chaîne correspond à la cible de Movember."
+        },
+        {
+          "t": "Un format léger",
+          "d": "Un épisode court et peu coûteux, facile à répéter."
+        }
+      ],
+      "concepts": [
+        {
+          "b": "Petit budget",
+          "t": "L'épisode spécial",
+          "d": "Une édition de marque d'un format court TF1+ ou TikTok, tournée en une journée."
+        },
+        {
+          "b": "Budget moyen",
+          "t": "La saison partenaire",
+          "d": "Quatre éditions spéciales d'un jeu court, signées par une marque ou une cause, avec relais en antenne."
+        },
+        {
+          "b": "Opération signature",
+          "t": "Le mois cause",
+          "d": "Un mois de contenus de cause sur TF1, TF1+ et les réseaux, autour d'un programme de divertissement."
+        }
+      ],
+      "partners": "Channel 4, A Comedy Thing, Movember, Strong Watch Studios",
+      "scope": "regie"
+    },
+    {
+      "id": "channel-4-b-corp-coupure-speciale",
+      "chapter": "formats",
+      "edition": "2026-11-11",
+      "label": "Royaume-Uni · Channel 4 Sales · 2 oct. 2026",
+      "title": "Channel 4 : la coupure des B Corp",
+      "image": "",
+      "categories": [
+        "RSE Show"
+      ],
+      "confidence": "Élevé",
+      "scores": [
+        6,
+        5,
+        7,
+        7,
+        6
+      ],
+      "pitch": "Cinq PME certifiées B Corp se partagent une coupure spéciale en soirée, gagnée par concours.",
+      "facts": [
+        "Les gagnants du deuxième concours B Corp de Channel 4 Sales, organisé avec B Lab UK, partagent une coupure spéciale diffusée dimanche soir pendant « The Great Celebrity Pottery Throw Down »",
+        "Cinq entreprises (Faith In Nature, Holy Moly Dips, Klyk, SURI, TOTM) ; les films passeront ensuite sur le streaming de Channel 4",
+        "Le prix fait partie d'une dotation de 600 000 £ d'espace publicitaire de Channel 4 ; aucun résultat publié"
+      ],
+      "why": "Format publicitaire créé pour l'occasion : une coupure collective qui offre à de petites marques leur première visibilité TV.",
+      "forTF1": "Piste d'offre d'entrée sur TF1 et TF1+ pour de petites marques engagées, avec effet RSE. Points de vigilance : valeur commerciale de l'espace offert, critères du concours, calendrier de diffusion et validation des films.",
+      "adaptations": "TV : coupure spéciale en soirée. TF1+ : reprise des films à la demande. Social : portraits des gagnants. Annonceurs compatibles : PME, marques engagées. Piste exploratoire.",
+      "sources": [
+        {
+          "label": "Channel 4 — communiqué B Corp (2 oct. 2026)",
+          "url": "https://www.channel4.com/press/news/five-b-corp-businesses-set-tv-advertising-debut-following-channel-4-competition-win"
+        }
+      ],
+      "context": {
+        "Régie": "Channel 4 Sales, avec B Lab UK",
+        "Format": "Coupure partagée par cinq annonceurs, issue d'un concours",
+        "Programme porteur": "The Great Celebrity Pottery Throw Down",
+        "Dotation": "600 000 £ d'espace publicitaire",
+        "Période": "2 oct. 2026"
+      },
+      "steps": [
+        "Channel 4 Sales et B Lab UK lancent un concours réservé aux entreprises certifiées B Corp.",
+        "Un jury choisit cinq gagnants ; chacun reçoit de l'espace et un film.",
+        "Les cinq films sont regroupés dans une coupure spéciale, le dimanche soir.",
+        "Ils passent ensuite sur la plateforme de streaming, dans des placements adaptés à chaque cible."
+      ],
+      "results": [
+        {
+          "n": "600 000 £",
+          "l": "d'espace publicitaire Channel 4 mis en jeu (dotation du concours)"
+        },
+        {
+          "n": "5",
+          "l": "entreprises B Corp dans la même coupure"
+        }
+      ],
+      "insights": [
+        {
+          "t": "La coupure devient un événement",
+          "d": "Un casting d'annonceurs en fait un moment à regarder."
+        },
+        {
+          "t": "Un concours qui crée du récit",
+          "d": "Les gagnants racontent leur première fois à la télévision."
+        },
+        {
+          "t": "Une porte d'entrée",
+          "d": "La télévision s'ouvre à des marques qui n'y venaient pas."
+        }
+      ],
+      "concepts": [
+        {
+          "b": "Petit budget",
+          "t": "Le spot du lauréat",
+          "d": "Un concours TF1+ qui offre un spot à une petite marque engagée dans une coupure dédiée."
+        },
+        {
+          "b": "Budget moyen",
+          "t": "La coupure des audacieux",
+          "d": "Cinq marques gagnantes d'un concours dans une coupure collective en prime time, relayée sur TF1+."
+        },
+        {
+          "b": "Opération signature",
+          "t": "Le tremplin annuel",
+          "d": "Un rendez-vous annuel TF1 PUB : concours, coupure spéciale, portraits des gagnants et suivi des résultats."
+        }
+      ],
+      "partners": "Channel 4 Sales, B Lab UK, Faith In Nature, Holy Moly Dips, Klyk, SURI, TOTM",
+      "scope": "regie"
+    },
+    {
+      "id": "whitworths-eat-cook-move-with-davina",
+      "chapter": "contenu",
+      "edition": "2026-11-11",
+      "label": "Royaume-Uni · ITV · 9 nov. 2026 (diffusion début 2027)",
+      "title": "Whitworths × Eat, Cook, Move with Davina",
+      "image": "",
+      "categories": [
+        "Brand Entertainment"
+      ],
+      "confidence": "À vérifier",
+      "scores": [
+        6,
+        4,
+        8,
+        7,
+        7
+      ],
+      "pitch": "Une marque de fruits secs s'associe à Davina McCall pour une série santé de 10 épisodes sur ITV1 et ITVX.",
+      "facts": [
+        "Série « Eat, Cook, Move with Davina » : 10 épisodes de 30 minutes sur ITV1 et ITVX, production Whisper, lancement prévu au début de la nouvelle année puis samedis matin",
+        "La série est réalisée en partenariat avec Whitworths (fruits secs, noix, snacks plus sains)",
+        "Détails du dispositif de marque non précisés dans les articles lus ; sources de presse secondaires, aucun communiqué ITV lu, à confirmer"
+      ],
+      "why": "Série lancée avec une marque partenaire et un talent : plus qu'un sponsoring selon la marque, mais le dispositif exact reste à confirmer.",
+      "forTF1": "Modèle de programme de bien-être porté par un talent et une marque, adapté à TF1 en journée ou week-end. À confirmer : nature exacte du partenariat (sponsoring, intégration, contenus). Points de vigilance : allégations santé et nutrition, séparation éditoriale et commerciale.",
+      "adaptations": "TV : programme de week-end. TF1+ : recettes et exercices en capsules. Social : conseils du talent. Annonceurs compatibles : agroalimentaire sain, sport, santé. Piste exploratoire.",
+      "quote": {
+        "q": "so much more than a sponsorship for us",
+        "who": "Phil Gowland, commercial director, Whitworths"
+      },
+      "sources": [
+        {
+          "label": "Retail Times — Whitworths partners with Davina McCall (9 nov. 2026)",
+          "url": "https://retailtimes.co.uk/whitworths-partners-with-davina-mccall-for-new-itv-health-and-wellness-series/"
+        },
+        {
+          "label": "Televisual — Whisper to Eat, Cook, Move with Davina",
+          "url": "https://www.televisual.com/news/whisper-to-eat-cook-move-with-davina/"
+        }
+      ],
+      "context": {
+        "Marque": "Whitworths",
+        "Régie et chaîne": "ITV (ITV1 et ITVX)",
+        "Programme": "Eat, Cook, Move with Davina, 10 × 30 min",
+        "Production": "Whisper",
+        "Période": "Annoncé le 9 nov. 2026, diffusion au début de l'année suivante"
+      },
+      "steps": [
+        "ITV commissionne une série santé et bien-être présentée par Davina McCall.",
+        "Chaque épisode réunit chefs, invités et experts autour de recettes, d'exercices et de conseils.",
+        "Whitworths est partenaire de la série ; la forme précise du partenariat n'est pas détaillée dans les articles lus."
+      ],
+      "results": [],
+      "insights": [
+        {
+          "t": "Un talent de confiance",
+          "d": "Davina McCall porte un sujet santé crédible pour la marque."
+        },
+        {
+          "t": "Une marque, une promesse",
+          "d": "Les snacks plus sains s'accordent avec le thème du programme."
+        },
+        {
+          "t": "Un partenariat dès la commande",
+          "d": "La marque est associée avant la diffusion."
+        }
+      ],
+      "concepts": [
+        {
+          "b": "Petit budget",
+          "t": "Les capsules du talent",
+          "d": "Des capsules recettes et exercices de 2 minutes sur TF1+, avec un animateur TF1 et une marque."
+        },
+        {
+          "b": "Budget moyen",
+          "t": "La série bien-être",
+          "d": "Un programme de week-end sur TF1 co-construit avec une marque santé, annoncé dès la commande."
+        },
+        {
+          "b": "Opération signature",
+          "t": "Le rendez-vous forme",
+          "d": "Une série annuelle avec un talent TF1, une marque partenaire, des capsules TF1+ et un événement terrain."
+        }
+      ],
+      "partners": "ITV, Whitworths, Whisper, Silverlining Rights",
+      "scope": "regie"
+    },
+    {
+      "id": "knorr-seven-one-next-gen-casting",
+      "chapter": "social",
+      "edition": "2026-11-11",
+      "label": "Allemagne · Seven.One Media (NEXT.GEN) · 5 nov. 2026",
+      "title": "Knorr × casting NEXT.GEN",
+      "image": "",
+      "categories": [
+        "Brand Fandoms",
+        "Personalization Power"
+      ],
+      "confidence": "Élevé",
+      "scores": [
+        7,
+        6,
+        8,
+        7,
+        7
+      ],
+      "pitch": "Un casting social de créateurs désigne le nouveau visage de Knorr, puis les gagnants prennent le relais en spot sur Joyn et en TV.",
+      "facts": [
+        "Six créateurs ont participé en septembre à un casting social pour trouver le nouveau « visage Knorr » (mélange d'assaisonnement pour friteuse à air)",
+        "Les candidatures sont devenues un spot communautaire diffusé en TV depuis fin septembre comme spot co-brandé Joyn ; les deux gagnants témoignent à partir du 6 novembre, puis dans un spot #InspireMe étendu dès le 15 novembre",
+        "Dispositif de NEXT.GEN, unité « Social First » de Seven.One Media créée en 2026 ; aucun chiffre de portée ou de performance publié"
+      ],
+      "why": "Dispositif conçu pour la marque : un casting communautaire génère le contenu, la TV et le streaming l'amplifient.",
+      "forTF1": "Transposable avec TF1+ et les réseaux : un casting social alimente un spot de marque. Points de vigilance : droits à l'image des créateurs, règles des concours, transparence sur les partenariats, sécurité de marque.",
+      "adaptations": "TV : spot co-brandé issu du casting. TF1+ : versions courtes. Social : candidatures et vote. Terrain : rencontre avec les gagnants. Annonceurs compatibles : alimentaire, beauté, retail. Piste exploratoire.",
+      "sources": [
+        {
+          "label": "Seven.One Media — communiqué NEXT.GEN (5 nov. 2026)",
+          "url": "https://www.presseportal.de/pm/42713/6384730"
+        }
+      ],
+      "context": {
+        "Annonceur": "Knorr",
+        "Régie": "Seven.One Media, unité NEXT.GEN",
+        "Dispositif": "Casting social de créateurs, spot communautaire, témoignages, spot #InspireMe",
+        "Plateformes": "Social, Joyn, TV",
+        "Période": "Septembre à novembre 2026"
+      },
+      "steps": [
+        "Six créateurs participent en septembre à un casting social pour trouver le nouveau visage Knorr.",
+        "Les candidatures sont assemblées en un spot communautaire, diffusé en TV comme spot co-brandé Joyn depuis fin septembre.",
+        "À partir du 6 novembre, les deux gagnants apparaissent en témoignages.",
+        "À partir du 15 novembre, ils jouent dans un spot #InspireMe plus long ; des versions courtes tournent sur Joyn et les réseaux."
+      ],
+      "results": [],
+      "insights": [
+        {
+          "t": "Le casting est le contenu",
+          "d": "Les candidatures fabriquent le spot sans tournage classique."
+        },
+        {
+          "t": "Des créateurs, puis la TV",
+          "d": "Le social lance le dispositif, l'antenne lui donne de la portée."
+        },
+        {
+          "t": "Une campagne qui avance",
+          "d": "Casting, spot communautaire, témoignages puis spot final : des étapes à suivre."
+        }
+      ],
+      "concepts": [
+        {
+          "b": "Petit budget",
+          "t": "Le casting TikTok",
+          "d": "Un appel à candidatures de créateurs sur les réseaux de TF1 pour choisir le visage d'une marque."
+        },
+        {
+          "b": "Budget moyen",
+          "t": "Le spot communautaire",
+          "d": "Les candidatures deviennent un spot diffusé sur TF1 et TF1+, avec les gagnants en témoignage."
+        },
+        {
+          "b": "Opération signature",
+          "t": "Le visage de la saison",
+          "d": "Un casting lié à un programme TF1 (Star Academy ou Koh-Lanta), avec vote public, antenne et TF1+."
+        }
+      ],
+      "partners": "Seven.One Media (NEXT.GEN), Knorr, Joyn, créateurs de contenu",
+      "scope": "regie"
+    },
+    {
+      "id": "simon-mobile-the-race-joyn",
+      "chapter": "programme",
+      "edition": "2026-11-11",
+      "label": "Allemagne · Seven.One Media (NEXT.GEN) · annonce du 5 nov. 2026 (dès févr. 2027)",
+      "title": "SIMon mobile × THE RACE",
+      "image": "",
+      "categories": [
+        "Brand Entertainment",
+        "Streaming Routine"
+      ],
+      "confidence": "Élevé",
+      "scores": [
+        6,
+        6,
+        8,
+        6,
+        7
+      ],
+      "pitch": "Une marque télécom s'invite dans une émission de streaming : placements, partenariat YouTube et publicité faite par un créateur du format.",
+      "facts": [
+        "La saison 4 de « THE RACE » démarre en février 2027 avec la « Wildcard Challenge » sur Joyn, partenariat de SIMon mobile (seconde marque de Vodafone)",
+        "Le paquet comprend des placements de produit, des partenariats sur les épisodes YouTube et une publicité réalisée avec un créateur du format, en pré-roll et mid-roll pendant quatre semaines de co-sponsoring sur Joyn",
+        "Les épisodes arrivent sur la chaîne YouTube du format deux semaines après leur première sur Joyn ; aucun chiffre publié"
+      ],
+      "why": "Intégration dans un programme avec création pour la marque : placements, parrainage et publicité réalisée par un créateur du format.",
+      "forTF1": "Modèle de package pour un programme TF1+ : placements, co-sponsoring et pub confiée à un talent du format. Points de vigilance : règles de placement de produit, droits du format, calendrier de diffusion et d'engagement.",
+      "adaptations": "TV : parrainage de l'émission. TF1+ : épisodes bonus et co-sponsoring. Social : extraits sur YouTube. Annonceurs compatibles : télécoms, banque, énergie. Piste exploratoire.",
+      "sources": [
+        {
+          "label": "Seven.One Media — communiqué NEXT.GEN (5 nov. 2026)",
+          "url": "https://www.presseportal.de/pm/42713/6384730"
+        }
+      ],
+      "context": {
+        "Annonceur": "SIMon mobile (Vodafone)",
+        "Régie": "Seven.One Media, unité NEXT.GEN",
+        "Programme": "THE RACE, saison 4, Joyn et YouTube",
+        "Dispositif": "Placements, partenariats YouTube, co-sponsoring et publicité créée avec un créateur du format",
+        "Période": "Annoncé le 5 nov. 2026, à partir de février 2027"
+      },
+      "steps": [
+        "Une « Wildcard Challenge » ouvre la saison 4 de THE RACE sur Joyn en février 2027.",
+        "Des placements de produit sont intégrés au programme.",
+        "Les épisodes arrivent sur YouTube deux semaines après Joyn, avec des partenariats d'épisodes.",
+        "Une publicité réalisée avec un créateur du format passe en pré-roll et mid-roll pendant un co-sponsoring de quatre semaines."
+      ],
+      "results": [],
+      "insights": [
+        {
+          "t": "Une marque, deux plateformes",
+          "d": "Joyn puis YouTube prolongent la présence de la marque."
+        },
+        {
+          "t": "Le créateur joue pour la marque",
+          "d": "La publicité est faite par un visage connu du format."
+        },
+        {
+          "t": "Un package, pas un spot",
+          "d": "Placements, parrainage et publicité forment un seul dispositif."
+        }
+      ],
+      "concepts": [
+        {
+          "b": "Petit budget",
+          "t": "Le pré-roll du talent",
+          "d": "Une publicité tournée avec un participant d'un programme TF1+, diffusée en pré-roll sur ses épisodes."
+        },
+        {
+          "b": "Budget moyen",
+          "t": "Le défi de marque",
+          "d": "Un épisode ou défi sponsorisé dans une émission TF1+, avec placements et co-sponsoring."
+        },
+        {
+          "b": "Opération signature",
+          "t": "La saison partenaire",
+          "d": "Un package pour toute une saison d'un programme TF1 (Koh-Lanta ou Star Academy) : placements, défi, publicité du talent et prolongement YouTube."
+        }
+      ],
+      "partners": "Seven.One Media (NEXT.GEN), SIMon mobile, Vodafone, Joyn, YouTube",
+      "scope": "regie"
+    },
+    {
+      "id": "melitta-die-hoehle-der-loewen",
+      "chapter": "programme",
+      "edition": "2026-11-11",
+      "label": "Allemagne · Ad Alliance / VOX · 14 sept. 2026",
+      "title": "Melitta × Die Höhle der Löwen",
+      "image": "",
+      "categories": [
+        "Brand Entertainment"
+      ],
+      "confidence": "À vérifier",
+      "scores": [
+        5,
+        4,
+        6,
+        7,
+        5
+      ],
+      "pitch": "Melitta entre pour la première fois dans le décor de l'émission de startups de VOX, avec un placement de produit.",
+      "facts": [
+        "Titre du communiqué Ad Alliance du 14 septembre 2026 : « Vor dem Pitch erst mal Kaffee: Melitta zieht mit erstem Product Placement in die VOX-Gründershow ein »",
+        "Lecture partielle de l'article, à confirmer : seul le titre est lu, la page de l'article n'a pas pu être ouverte",
+        "Aucun chiffre ni détail de dispositif disponible"
+      ],
+      "why": "Intégration d'une marque dans un programme de VOX, mais le contenu du dispositif n'est pas établi : à lire avant toute reprise.",
+      "forTF1": "À vérifier avant d'en tirer une piste : si le placement est simple, c'est un rappel que les rituels de pitch ou de pause peuvent accueillir des marques. Points de vigilance : règles du placement de produit, séparation éditoriale et commerciale.",
+      "adaptations": "TV : placement dans une émission de pitch. TF1+ : contenus bonus. Social : coulisses. Annonceurs compatibles : boissons, alimentaire, équipement. Piste exploratoire, à confirmer.",
+      "sources": [
+        {
+          "label": "Ad Alliance — Premiere bei DIE HÖHLE DER LÖWEN (14 sept. 2026)",
+          "url": "https://www.ad-alliance.de/news/premiere-bei-die-hoehle-der-loewen"
+        }
+      ],
+      "context": {
+        "Marque": "Melitta",
+        "Régie et chaîne": "Ad Alliance, VOX",
+        "Programme": "Die Höhle der Löwen (émission de startups)",
+        "Dispositif": "Premier product placement de la marque, d'après le titre du communiqué",
+        "Période": "14 sept. 2026"
+      },
+      "steps": [
+        "Melitta fait son premier placement de produit dans « Die Höhle der Löwen » (d'après le titre du communiqué ; détails non lus)."
+      ],
+      "results": [],
+      "insights": [
+        {
+          "t": "Un rituel d'émission",
+          "d": "Le café avant le pitch s'inscrit dans le déroulé du programme."
+        },
+        {
+          "t": "Une première pour la marque",
+          "d": "Le titre insiste sur l'entrée de Melitta dans l'émission."
+        },
+        {
+          "t": "À confirmer",
+          "d": "Le dispositif exact reste à lire dans la source."
+        }
+      ],
+      "concepts": [
+        {
+          "b": "Petit budget",
+          "t": "Le café du plateau",
+          "d": "Un placement de boisson dans une émission de pitch ou de jeu de TF1, à valider avec la grille et les droits."
+        },
+        {
+          "b": "Budget moyen",
+          "t": "Le rituel de coulisses",
+          "d": "Une séquence récurrente avant l'épreuve, signée par une marque, dans un programme TF1."
+        },
+        {
+          "b": "Opération signature",
+          "t": "La saison du café",
+          "d": "Une marque partenaire d'une saison entière : placement, séquence récurrente et contenus bonus sur TF1+."
+        }
+      ],
+      "partners": "Ad Alliance, VOX, Melitta",
+      "scope": "regie"
+    }
+  ],
+  "chapters": {
+    "programme": {
+      "retain": {
+        "summary": "Les meilleures opérations ne posent pas un logo dans le programme : elles créent un rituel, une scène ou un prolongement que seule la marque peut raconter.",
+        "points": [
+          {
+            "t": "Un rituel qui revient",
+            "d": "Le « rider » d'Albert Heijn revient chaque semaine, le vote Sprite chaque épisode : la marque devient un rendez-vous de l'émission.",
+            "ops": [
+              "albert-heijn-lift-you-up",
+              "sprite-playground"
+            ]
+          },
+          {
+            "t": "Une scène avant le spot",
+            "d": "Chez Emmerdale comme dans GZSZ, la fiction pose le sujet, puis la marque répond ; Melitta, elle, entre dans l'émission de pitch de VOX (détails à confirmer).",
+            "ops": [
+              "emmerdale-pompes-a-chaleur",
+              "l-oreal-paris-gzsz",
+              "melitta-die-hoehle-der-loewen"
+            ]
+          },
+          {
+            "t": "L'émission se prolonge et se mesure",
+            "d": "+90 % de trafic sur le site de Disneyland Paris pendant le direct ; chez SIMon mobile, placements, YouTube et pub d'un créateur prolongent THE RACE sur Joyn.",
+            "ops": [
+              "disneyland-paris-dancing-with-the-stars",
+              "simon-mobile-the-race-joyn"
+            ]
+          }
+        ]
+      }
+    },
+    "contenu": {
+      "retain": {
+        "summary": "Quand la régie produit pour la marque, le produit devient le décor ou le prétexte, jamais l'argument de vente : le talent, le format et le récit portent le message.",
+        "points": [
+          {
+            "t": "Un talent, un ton, un format",
+            "d": "Un humoriste porte le rail chez Channel 4 comme chez VIA Rail, Davina McCall porte Whitworths sur ITV, Movember détourne un jeu existant : la voix et le format font la marque.",
+            "ops": [
+              "rail-delivery-group-train-ing-it",
+              "via-rail-andrew-phung",
+              "whitworths-eat-cook-move-with-davina",
+              "a-comedy-thing-movember"
+            ]
+          },
+          {
+            "t": "Le produit au second plan",
+            "d": "Un soin jamais démontré, des poules expliquées par le jeu, un parfum devenu personnalité de héroïne : on raconte avant de vendre.",
+            "ops": [
+              "avene-marquer-l-invisible",
+              "happy-egg-tiny-farmers",
+              "sol-de-janeiro-the-guest-list"
+            ]
+          },
+          {
+            "t": "Un programme de marque se construit en saisons",
+            "d": "Train-ing It dépasse de 94 % ses objectifs dès la première saison ; Made in France revient pour une saison 2 avec ses partenaires : la récurrence fidélise.",
+            "ops": [
+              "rail-delivery-group-train-ing-it",
+              "made-in-france-saison-2-m6"
+            ]
+          }
+        ]
+      }
+    },
+    "formats": {
+      "retain": {
+        "summary": "La publicité elle-même peut devenir un événement : en changeant de forme, avec une coupure annoncée, du clic, un QR code ou de l'IA, elle regagne l'attention sans produire plus.",
+        "points": [
+          {
+            "t": "La coupure devient un rendez-vous",
+            "d": "Chez Ster, le bloc de Noël gagne +120 % de visionnage différé ; BMW offre deux minutes sans coupure ; Channel 4 réunit cinq PME B Corp dans une coupure spéciale.",
+            "ops": [
+              "ster-bloc-de-pub-de-noel-en-prime-time",
+              "bmw-ix3-le-compte-a-rebours",
+              "channel-4-b-corp-coupure-speciale"
+            ]
+          },
+          {
+            "t": "Du spot à l'action, simplement",
+            "d": "Channel 4 Enhance rend un spot cliquable en 5 jours ouvrés ; M6 offre un QR code vers le wallet ; Channel 4 vend un point d'achat unique pour couvrir plusieurs écrans en 48 heures.",
+            "ops": [
+              "channel-4-enhance",
+              "fitness-park-habillage-wallet",
+              "channel-4-instant-re4ch"
+            ]
+          },
+          {
+            "t": "L'IA et l'écran d'accueil comme terrain",
+            "d": "M6 Unlimited produit un spot par l'IA pour une petite marque et détourne l'accueil de M6+ pour Carrefour : un signal concurrent direct sur le streaming.",
+            "ops": [
+              "m6-spots-crees-par-l-ia",
+              "carrefour-m6-collection-hack6"
+            ]
+          }
+        ]
+      }
+    },
+    "social": {
+      "retain": {
+        "summary": "Les licences et les plateformes fonctionnent quand la marque entre dans le jeu des fans et des créateurs, avant ou autour du programme, plutôt que dans l'écran publicitaire.",
+        "points": [
+          {
+            "t": "Le fandom avant le programme",
+            "d": "Snapchat ouvre Poudlard quatre mois avant la série ; Zalando habille la Star Academy pour ses 25 ans.",
+            "ops": [
+              "harry-potter-snapchat",
+              "zalando-star-academy"
+            ]
+          },
+          {
+            "t": "Un rituel, des créateurs, une marque",
+            "d": "Dans la villa de Love Island USA, chaque moment a la sienne : +643 % de mémorisation pour les partenaires intégrés ; chez Seven.One, un casting social de créateurs devient le spot Knorr.",
+            "ops": [
+              "love-island-usa-21-marques",
+              "knorr-seven-one-next-gen-casting"
+            ]
+          },
+          {
+            "t": "Une histoire déjà aimée",
+            "d": "Walmart rejoue le Noël des Muppets, Netflix crée un nouveau rendez-vous sport et musique : le public connaît déjà le décor.",
+            "ops": [
+              "walmart-the-muppets",
+              "netflix-american-express"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
