@@ -178,10 +178,9 @@ window.VEILLE_OPS = {
         "points": [
           {
             "t": "Le fandom avant le programme",
-            "d": "Snapchat ouvre Poudlard quatre mois avant la série ; Zalando habille la Star Academy pour ses 25 ans.",
+            "d": "Snapchat ouvre Poudlard quatre mois avant la série : filtres, tenues d’avatar et événements fans installent l’univers avant la diffusion.",
             "ops": [
-              "harry-potter-snapchat",
-              "zalando-star-academy"
+              "harry-potter-snapchat"
             ]
           },
           {
@@ -325,7 +324,9 @@ window.VEILLE_OPS = {
         }
       ],
       "partners": "DPG Media, Integreate, VTM, VTM GO",
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "Dans l'émission musicale Lift You Up (VTM), les demandes de coulisses des artistes sont devenues une liste de courses Albert Heijn : les téléspectateurs pouvaient acheter le lendemain, via l'appli, les produits du « Rider of the Week ».",
+      "concept": "Un « rider », c'est la liste de ce qu'un artiste exige dans sa loge. Albert Heijn a repris cette idée pour en faire un rendez-vous hebdomadaire : un pop-up store dans les coulisses, des billboards et placements de produits à l'antenne, puis la liste de courses disponible dès le lendemain. La marque ne se contente pas de parrainer l'émission, elle donne à voir et à acheter ce qui s'y passe."
     },
     {
       "id": "l-oreal-paris-gzsz",
@@ -425,7 +426,9 @@ window.VEILLE_OPS = {
         "q": "Harassment is never your fault.",
         "who": "Message affiché sur le plateau de GZSZ"
       },
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "L'Oréal Paris a fait écrire dans la série quotidienne GZSZ (RTL) une scène de harcèlement de rue, qui sert de point d'entrée à son programme de formation « Stand Up ».",
+      "concept": "Plutôt que de parler du sujet dans un spot, la marque l'a fait vivre à des personnages que des millions de fans suivent chaque jour. L'intrigue inclut un échange façon SMS entre la marque et un personnage, et deux formats ont été créés pour l'occasion (« Chatmove » et « Cut In »). Le budget cité est d'environ 500 000 € bruts, et 84 % des personnes en contact jugent l'intégration crédible."
     },
     {
       "id": "universal-let-s-dance",
@@ -511,7 +514,9 @@ window.VEILLE_OPS = {
         "q": "The stage remains the stage.",
         "who": "Principe créatif cité par EGTA"
       },
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "Pendant la coupure pub de Let's Dance, le plateau de l'émission a été transformé grâce à l'IA en arène de dragons pour promouvoir le film « Dragons » d'Universal.",
+      "concept": "Le décor réel de l'émission sert de base : l'IA génère l'animation qui l'habille, tandis que le personnage principal du film est produit de façon classique pour respecter la marque. Le format est présenté comme reproductible et économique, mais aucun résultat chiffré n'a été publié."
     },
     {
       "id": "disneyland-paris-dancing-with-the-stars",
@@ -611,7 +616,9 @@ window.VEILLE_OPS = {
         "q": "Seeing Mickey and Minnie come together among the dancers on the stage was the highlight of this partnership.",
         "who": "Isabelle Willemsen, Disneyland Paris"
       },
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "La régie de VTM a proposé à Disneyland Paris, sans que la marque l'ait demandé, un épisode entier de 90 minutes de Dancing With The Stars aux couleurs de Disney.",
+      "concept": "L'idée : ne pas vendre des spots, mais offrir à l'annonceur un programme à sa gloire. Chaque danse racontait une histoire Disney, Mickey et Minnie montaient sur scène et des animateurs avaient été filmés à Disneyland Paris. La régie annonce plus de 800 000 spectateurs et +90 % de trafic sur le site du parc pendant la diffusion."
     },
     {
       "id": "emmerdale-pompes-a-chaleur",
@@ -707,7 +714,9 @@ window.VEILLE_OPS = {
         }
       ],
       "partners": "ITV, Project Planet, Savanta (étude)",
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "Dans la série Emmerdale (ITV), un personnage parle de pompes à chaleur, et à la pause suivante un spot tourné sur le même décor explique comment cela fonctionne.",
+      "concept": "Le spot reprend l'univers de la série et il est raconté par un ancien acteur, ce qui prolonge l'histoire au lieu de la couper. Le dispositif est signé Project Planet, l'initiative durable d'ITV, pour un budget cité de moins de 250 000 £. Selon ITV, 62 % des téléspectateurs envisagent d'en installer une, contre 28 % des non-téléspectateurs."
     },
     {
       "id": "sprite-playground",
@@ -790,7 +799,9 @@ window.VEILLE_OPS = {
         }
       ],
       "partners": "RMB, RTBF, Tarmac, Auvio",
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "Dans l'émission de rap PLAYGROUND (RMB / RTBF), le public note chaque rappeur de 1 à 10 en scannant un QR code à l'écran, sous la marque Sprite et Deli Choc.",
+      "concept": "Les notes des spectateurs s'ajoutent à celles du jury pour un classement en temps réel : la marque est partenaire du moment où le public décide. Le sponsoring est global : antenne, pre-roll, sampling et activations sur le terrain. Aucun chiffre n'a été publié."
     },
     {
       "id": "rail-delivery-group-train-ing-it",
@@ -888,7 +899,9 @@ window.VEILLE_OPS = {
         "q": "It's rare for advertiser-led content to resonate with audiences at this scale.",
         "who": "Jonathan Hill, Spark Foundry"
       },
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "Pour promouvoir le train, Rail Delivery Group a produit avec Channel 4 « Train-ing It », une émission où l'humoriste Joe Wilkinson interroge des invités célèbres à bord de trains.",
+      "concept": "C'est du divertissement de marque : un vrai programme, diffusé sur YouTube, Channel 4 Streaming, Spotify et Apple Podcasts, où le train est le décor des conversations. La saison 2 sort en novembre 2026 et une saison 3 est commandée. Channel 4 annonce des objectifs dépassés de 94 %."
     },
     {
       "id": "bauhaus-soiree-electorale",
@@ -983,7 +996,9 @@ window.VEILLE_OPS = {
         "q": "Completely crazy.",
         "who": "Heidi Isohanni, Sanoma, sur l'idée de départ"
       },
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "Le soir des élections en Finlande, Bauhaus a glissé dans les émissions de résultats sa propre « élection des prix », avec un candidat en costume de directeur des prix.",
+      "concept": "Le programme d'humour de marque reprend les codes d'une soirée électorale pour parler des prix bas enseigne. Il a été relayé à la télé, en streaming, dans la presse et à la radio. La régie Sanoma annonce près de 600 000 téléspectateurs en moyenne sur 7 jours et 1,5 M de vues sur IS.fi."
     },
     {
       "id": "avene-marquer-l-invisible",
@@ -1067,7 +1082,9 @@ window.VEILLE_OPS = {
         }
       ],
       "partners": "CANAL+ Brand Solutions, LA FACTORY, Clique, STREAM+",
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "Avène a co-construit avec CANAL+ Brand Solutions un vrai documentaire sur le tatouage et les cicatrices, dans lequel son soin Cicalfate+ apparaît sans être démontré.",
+      "concept": "Le film aborde la réparation émotionnelle, pas le produit : le soin trouve sa place dans le parcours des témoignages. Il est disponible sur l'appli CANAL+, avec un teaser en pre-roll et des relais sur les réseaux. Aucun chiffre n'a été publié."
     },
     {
       "id": "happy-egg-tiny-farmers",
@@ -1152,7 +1169,9 @@ window.VEILLE_OPS = {
         "q": "Tiny Farmers is what happens when audience-first thinking meets platform-native storytelling.",
         "who": "Emma Parrett, OMD UK"
       },
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "Pour la marque d'œufs Happy Egg, Channel 4 a produit un épisode familial, « Tiny Farmers », où quatre enfants relèvent des défis de fermiers pour rendre des poules heureuses.",
+      "concept": "L'épisode est d'abord lancé sur YouTube, avec des extraits sur quatre réseaux sociaux, puis l'épisode complet passe en streaming, soutenu par une pub TV qui y renvoie. C'est le premier partenariat de la « Partner Lab », l'équipe de partenariats créatifs de Channel 4. Aucun résultat n'a été publié."
     },
     {
       "id": "via-rail-andrew-phung",
@@ -1252,7 +1271,9 @@ window.VEILLE_OPS = {
         "q": "People needed a clearer picture of the onboard experience, not a louder claim about it.",
         "who": "EGTA, sur l'insight de la campagne"
       },
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "VIA Rail et CBC ont lancé pendant huit semaines une série de contenus animée par l'humoriste Andrew Phung, qui voyage à bord du nouveau matériel de la compagnie et dit préférer le train à la voiture.",
+      "concept": "La même voix se retrouve en vidéo, en audio, sur les réseaux de CBC et chez des influenceurs, pour changer l'image de VIA Rail. Les résultats cités sont une impression globale en hausse de 10 % et un objectif de vues vidéo dépassé de 175 %."
     },
     {
       "id": "channel-4-enhance",
@@ -1348,7 +1369,9 @@ window.VEILLE_OPS = {
         "q": "Enhance is a pivotal addition to our product suite.",
         "who": "David Amodio, Channel 4"
       },
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "Channel 4 Enhance permet de transformer un spot TV déjà tourné en pub interactive sur le streaming de Channel 4, sans tourner une image de plus.",
+      "concept": "Le spot existant reçoit un habillage interactif parmi quatre formats : localisation, QR code, compte à rebours ou carrousel de produits (technologie BrightLine). Le surcoût média est de 3 £ de CPM et une première campagne peut être en ligne en 5 jours ouvrés. Aucun résultat n'a encore été publié."
     },
     {
       "id": "m6-spots-crees-par-l-ia",
@@ -1447,7 +1470,9 @@ window.VEILLE_OPS = {
         "q": "Clean, sober, clear and quick.",
         "who": "Retour du pré-test sur le spot"
       },
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "M6 Unlimited a testé un spot entièrement créé par l'IA pour une petite marque (INGA), puis l'a soumis à un pré-test d'efficacité avant diffusion.",
+      "concept": "Avec l'outil Waymark, l'IA génère la vidéo à partir du brief et des éléments de marque, et la régie la vérifie. Le spot est ensuite pré-testé (Toluna) face à la base de référence de M6 Unlimited : il se place dans le top 20 % en attention et en rappel de marque, mais dans les 40 % les plus bas en résonance émotionnelle."
     },
     {
       "id": "ster-bloc-de-pub-de-noel-en-prime-time",
@@ -1543,7 +1568,9 @@ window.VEILLE_OPS = {
         "q": "Creating dedicated, clearly framed advertising moments can turn commercial breaks into television events.",
         "who": "EGTA"
       },
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "Ster a regroupé les nouvelles pubs de Noël dans un bloc spécial en prime time sur NPO 1, présenté par la mascotte de la chaîne, juste après le journal.",
+      "concept": "L'idée est de faire de la coupure un rendez-vous que le public attend, plutôt qu'un moment à éviter. Le premier bloc passait avant Wie is de Mol, et un deuxième a été ajouté face à la demande. La régie annonce +120 % de visionnage différé et 74 % de rétention contre 66 % pour le premier bloc."
     },
     {
       "id": "bmw-ix3-le-compte-a-rebours",
@@ -1634,93 +1661,9 @@ window.VEILLE_OPS = {
         "q": "Working with Ads & Data allowed us to showcase the new BMW iX3 at the perfect moment.",
         "who": "Georges Pagalis, BMW Belux"
       },
-      "scope": "regie"
-    },
-    {
-      "id": "zalando-star-academy",
-      "chapter": "social",
-      "edition": "2026-11-10",
-      "label": "France · TF1 · oct. 2026",
-      "title": "Zalando × Star Academy",
-      "image": "",
-      "categories": [
-        "Brand Entertainment",
-        "Brand Fandoms"
-      ],
-      "confidence": "Moyen",
-      "scores": [
-        7,
-        6,
-        9,
-        7,
-        8
-      ],
-      "facts": [
-        "2e édition du partenariat, pour les 25 ans de la Star Academy",
-        "Quatre duos créateurs et anciens élèves passent 24 h au château, sur TF1+",
-        "« La Cabine par Zalando » avec Loïc Prigent sur TF1+"
-      ],
-      "why": "Référence maison : un dispositif construit autour d'un programme, de talents et de créateurs.",
-      "forTF1": "Sert de base de comparaison avec les opérations des autres régies. Sources de presse spécialisée, à compléter avec les chiffres internes.",
-      "adaptations": "Sert de référence interne pour comparer les mécaniques des autres opérations.",
-      "sources": [
-        {
-          "label": "Saison 2026",
-          "url": "https://gensdinternet.fr/2026/10/05/zalando-reitere-son-partenariat-avec-la-star-academy-et-des-createurs-de-contenu/"
-        },
-        {
-          "label": "Dispositif 2025",
-          "url": "https://www.cbnews.fr/marques/zalando-partenaire-360deg-nouvelle-saison-star-academy"
-        }
-      ],
-      "pitch": "Pour les 25 ans de la Star Academy, Zalando habille l'aventure : créateurs au château, anciens élèves et Loïc Prigent en cabine.",
-      "context": {
-        "Annonceur": "Zalando France",
-        "Campagne": "« Ça se sape pour la Star Ac' avec Zalando »",
-        "Chaîne": "TF1 et TF1+",
-        "Programme": "Star Academy, saison 14 (25 ans)",
-        "Date": "À partir d'octobre 2026"
-      },
-      "steps": [
-        "Le format « Before Star Academy » revient le 7 octobre sur TF1+ et les réseaux.",
-        "Quatre duos créateurs et anciens élèves passent 24 h au château, avec les cours des candidats.",
-        "« La Cabine par Zalando » : sur TF1+, les élèves sortants racontent leur aventure et leurs tenues avec Loïc Prigent.",
-        "Le château est ouvert aux journalistes et aux influenceurs pour des images exclusives."
-      ],
-      "results": [],
-      "insights": [
-        {
-          "t": "La mode au cœur de l'aventure",
-          "d": "Les tenues font partie de l'histoire des élèves."
-        },
-        {
-          "t": "Créateurs et anciens",
-          "d": "On mélange les codes des réseaux et la nostalgie du programme."
-        },
-        {
-          "t": "Référence maison",
-          "d": "La base de comparaison TF1 pour lire les opérations des autres régies."
-        }
-      ],
-      "concepts": [
-        {
-          "b": "Petit budget",
-          "t": "La capsule TF1+",
-          "d": "Un format court de marque autour des coulisses d'un programme TF1, avec un expert reconnu."
-        },
-        {
-          "b": "Budget moyen",
-          "t": "Les 24 h des créateurs",
-          "d": "Des influenceurs vivent l'expérience d'un programme TF1, filmés pour TF1+ et les réseaux."
-        },
-        {
-          "b": "Opération signature",
-          "t": "Le partenaire 360",
-          "d": "Une marque présente à l'antenne, sur TF1+, chez les créateurs et en retail sur toute une saison."
-        }
-      ],
-      "partners": "Agences Beastly (influence) et Social Club (La Cabine)",
-      "scope": "inspiration"
+      "scope": "regie",
+      "oneLine": "Pour lancer la BMW iX3, un film de 2 minutes sans coupure, diffusé en prime time, montre un compteur qui grimpe jusqu'à 805 km d'autonomie.",
+      "concept": "Le film n'a été diffusé que deux fois, juste avant le jeu du programme associé, pour en faire un vrai moment de télé. Il a ensuite été prolongé par des billboards de 7 secondes et des spots de 30 secondes. Le programme associé réunit plus d'un million de téléspectateurs par épisode."
     },
     {
       "id": "love-island-usa-21-marques",
@@ -1822,7 +1765,9 @@ window.VEILLE_OPS = {
         "q": "Love Island is airing six days a week for seven weeks, so that level of fandom is incredibly powerful for brands.",
         "who": "Karen Kovacs, NBCUniversal"
       },
-      "scope": "inspiration"
+      "scope": "inspiration",
+      "oneLine": "Sur Peacock, la régie a vendu à 21 marques une place dans Love Island USA : leurs produits sont dans la villa, l'une sponsorise l'émission d'après, d'autres tournent des pubs avec les candidats.",
+      "concept": "Concrètement, CeraVe, Maybelline ou Motorola sont présents dans le quotidien de la villa, Cuervo sponsorise l'« Aftersun » qui suit l'émission, des pubs sont tournées avec les candidats, des Pause Ads sont achetables en direct et des événements prolongent le tout. L'émission garde son charme parce que chaque marque a un moment précis dans le rituel du programme. Les partenaires intégrés affichent +643 % de mémorisation."
     },
     {
       "id": "walmart-the-muppets",
@@ -1902,7 +1847,9 @@ window.VEILLE_OPS = {
         }
       ],
       "partners": "Disney, The Muppets Studio",
-      "scope": "inspiration"
+      "scope": "inspiration",
+      "oneLine": "Walmart a réinterprété le film de Noël « The Muppet Christmas Carol » avec Disney : Scrooge y est joué par son porte-parole Walton Goggins, face à trois nouveaux fantômes.",
+      "concept": "Les trois fantômes incarnent l'offre de fêtes de l'enseigne : les produits, les offres et la livraison express. La marque emprunte une histoire que le public connaît déjà pour présenter ses cadeaux. La diffusion et les résultats ne sont pas précisés dans l'extrait consulté."
     },
     {
       "id": "harry-potter-snapchat",
@@ -1992,7 +1939,9 @@ window.VEILLE_OPS = {
         }
       ],
       "partners": "Snapchat, HBO Max",
-      "scope": "inspiration"
+      "scope": "inspiration",
+      "oneLine": "Quatre mois avant la sortie de la série Harry Potter sur HBO Max (le 25 décembre), Snapchat lance 12 filtres de réalité augmentée, des tenues d'avatars et des événements pour fans autour de Poudlard.",
+      "concept": "L'idée est de faire vivre l'univers là où se trouvent les jeunes, bien avant que la série n'existe à l'écran. Les utilisateurs essaient filtres, tenues Bitmoji et « miroirs magiques », et des événements fans prolongent l'expérience. Le lancement de la série est ainsi préparé par quatre mois de fandom sur la plateforme."
     },
     {
       "id": "l-oreal-la-serie-elle",
@@ -2080,7 +2029,9 @@ window.VEILLE_OPS = {
         "q": "Natural, undeniable synergy.",
         "who": "Laura Branik, L'Oréal Paris USA"
       },
-      "scope": "inspiration"
+      "scope": "inspiration",
+      "oneLine": "L'Oréal Paris est le sponsor maquillage officiel de « Elle » (Prime Video), la préquelle de « La Revanche d'une blonde », et les produits de 1995 apparaissent dans la série.",
+      "concept": "Le maquillage de la jeune Elle Woods est celui de l'époque, ce qui relie la marque à l'histoire sans casser le récit. L'opération est prolongée hors écran par une campagne 360, des pop-ups, une expérience pour les fans et des vidéos « Get Ready With Me »."
     },
     {
       "id": "netflix-american-express",
@@ -2163,7 +2114,9 @@ window.VEILLE_OPS = {
         }
       ],
       "partners": "Netflix, NFL",
-      "scope": "inspiration"
+      "scope": "inspiration",
+      "oneLine": "Netflix diffuse en direct le premier match NFL de la veille de Thanksgiving (Packers – Rams, le 25 novembre 2026), avec un concert de U2 à la mi-temps.",
+      "concept": "Netflix crée ainsi un nouveau rendez-vous qui mêle sport et musique. Attention : le rôle d'American Express dans l'opération n'est pas confirmé par les pages consultées (Netflix Tudum, SVG), la fiche est donc à lire comme un signal sur l'événement, pas comme une opération de marque établie."
     },
     {
       "id": "sol-de-janeiro-the-guest-list",
@@ -2251,7 +2204,9 @@ window.VEILLE_OPS = {
         }
       ],
       "partners": "Channel 4, Sol de Janeiro, curly media, Zenith UK",
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "Channel 4 a produit pour Sol de Janeiro « The Guest List », une mini-série verticale de 5 épisodes courts où chaque héroïne s'inspire d'un parfum de la marque.",
+      "concept": "Au lieu d'un spot, la régie vend un micro-drame diffusé sur les comptes Meta, TikTok et YouTube de Channel 4 dès le 24 octobre 2026. L'histoire suit le groupe de discussion de quatre amies d'une vingtaine d'années à Londres, et chaque personnage incarne un parfum de la gamme Intense Mist. Aucun chiffre d'audience ni de budget n'est publié."
     },
     {
       "id": "carrefour-m6-collection-hack6",
@@ -2341,7 +2296,9 @@ window.VEILLE_OPS = {
         }
       ],
       "partners": "M6 Unlimited, Carrefour, Arena Média, Havas play",
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "Carrefour s'est installé dans la navigation de M6+ : une page « famille » dédiée à son Mois Monopoly et une transition animée de 10 secondes sur l'écran d'accueil, suivie d'un spot de 15 secondes.",
+      "concept": "C’est la première collection exclusive d’une marque sur M6+ : le format HACK6 détourne l’écran d’accueil, là où l’utilisateur choisit son programme. L’opération est relayée sur les réseaux sociaux et sur M6+ (mise en avant éditoriale, newsletter, jingle, bannières), sans chiffre de performance publié."
     },
     {
       "id": "fitness-park-habillage-wallet",
@@ -2427,7 +2384,9 @@ window.VEILLE_OPS = {
         }
       ],
       "partners": "M6 Unlimited, Fitness Park, Cospirit, Adways",
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "Dans un spot de M6 Unlimited, un QR code à scanner permet à Fitness Park d'ajouter son offre directement dans le wallet du smartphone du téléspectateur.",
+      "concept": "Le format, conçu par Adways, affiche une incrustation pendant le spot : le téléspectateur scanne, et l'offre arrive dans son téléphone en un geste. Il est disponible sur les trois écrans (TV connectée et OTT). Fitness Park l'a inauguré pour sa première campagne avec ce format, du 24 août au 30 septembre 2026."
     },
     {
       "id": "made-in-france-saison-2-m6",
@@ -2519,7 +2478,9 @@ window.VEILLE_OPS = {
         }
       ],
       "partners": "M6 Unlimited, M6&Beyond, Bpifrance, La French Fab, OPCO 2i, Avec l'Industrie",
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "M6 diffuse la saison 2 de « Made in France », un programme de compétition d'apprentis produit par l'agence de sa régie pour donner envie des métiers de l'industrie.",
+      "concept": "Quatre épisodes de 26 minutes passent le samedi matin du 21 novembre au 12 décembre, avec des capsules d'une minute sur les cinq apprentis et leurs mentors à l'antenne et sur M6+. Le programme est porté par M6&Beyond, l'agence créative de M6 Unlimited, avec Bpifrance et l'OPCO 2i comme partenaires institutionnels."
     },
     {
       "id": "channel-4-instant-re4ch",
@@ -2617,7 +2578,9 @@ window.VEILLE_OPS = {
         }
       ],
       "partners": "Channel 4 Sales, Paramount, UKTV, Narrative, YouTube",
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "Channel 4 propose aux annonceurs un seul achat pour couvrir en 48 heures la télé, le streaming et YouTube de deux groupes publics.",
+      "concept": "L'offre, annoncée le 15 octobre 2026 et disponible dès janvier 2027, garantit des créneaux aux heures de forte audience le même soir sur les chaînes linéaires de Channel 4, Paramount, UKTV et Narrative. Elle ajoute deux campagnes « boost » de 48 heures, sur les plateformes de streaming puis sur plus de 30 chaînes YouTube de Channel 4. Aucun résultat n'est publié."
     },
     {
       "id": "a-comedy-thing-movember",
@@ -2708,7 +2671,9 @@ window.VEILLE_OPS = {
         }
       ],
       "partners": "Channel 4, A Comedy Thing, Movember, Strong Watch Studios",
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "Pour Movember, la chaîne digitale A Comedy Thing de Channel 4 a produit une édition spéciale de son jeu « Guess The Moustache », où trois humoristes doivent retrouver la vraie moustache parmi des fausses.",
+      "concept": "C’est la première collaboration de marque de cette chaîne : le symbole de la cause devient le principe du jeu. L’émission est diffusée sur YouTube et les réseaux d’A Comedy Thing, produite par Strong Watch Studios, sans résultat publié."
     },
     {
       "id": "channel-4-b-corp-coupure-speciale",
@@ -2798,7 +2763,9 @@ window.VEILLE_OPS = {
         }
       ],
       "partners": "Channel 4 Sales, B Lab UK, Faith In Nature, Holy Moly Dips, Klyk, SURI, TOTM",
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "Channel 4 a offert à cinq PME certifiées B Corp, gagnantes d'un concours, une coupure pub partagée en soirée pendant « The Great Celebrity Pottery Throw Down ».",
+      "concept": "Le prix fait partie d'une dotation de 600 000 £ d'espace publicitaire, organisée avec B Lab UK : de petites marques à mission accèdent à la télé sans budget média. Les cinq entreprises sont Faith In Nature, Holy Moly Dips, Klyk, SURI et TOTM, et leurs films passeront ensuite sur le streaming de Channel 4."
     },
     {
       "id": "whitworths-eat-cook-move-with-davina",
@@ -2886,7 +2853,9 @@ window.VEILLE_OPS = {
         }
       ],
       "partners": "ITV, Whitworths, Whisper, Silverlining Rights",
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "ITV prépare avec la marque de fruits secs Whitworths une série santé de 10 épisodes présentée par Davina McCall, « Eat, Cook, Move with Davina », sur ITV1 et ITVX.",
+      "concept": "La série dure 10 épisodes de 30 minutes, produite par Whisper, avec un lancement prévu au début de l'année puis le samedi matin. À vérifier : le détail du dispositif de marque n'est pas précisé dans les articles lus, qui sont des sources de presse secondaires, sans communiqué d'ITV."
     },
     {
       "id": "knorr-seven-one-next-gen-casting",
@@ -2968,7 +2937,9 @@ window.VEILLE_OPS = {
         }
       ],
       "partners": "Seven.One Media (NEXT.GEN), Knorr, Joyn, créateurs de contenu",
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "Seven.One Media a organisé pour Knorr un casting de créateurs sur les réseaux sociaux afin de choisir le nouveau « visage Knorr », puis a transformé l'opération en spot TV.",
+      "concept": "Six créateurs ont participé en septembre au casting ; leurs candidatures sont devenues un spot communautaire diffusé en TV depuis fin septembre, en spot co-brandé Joyn. Les deux gagnants prennent le relais dès le 6 novembre, puis dans un spot #InspireMe étendu dès le 15 novembre, un dispositif de NEXT.GEN, l’unité « Social First » de Seven.One Media."
     },
     {
       "id": "simon-mobile-the-race-joyn",
@@ -3050,7 +3021,9 @@ window.VEILLE_OPS = {
         }
       ],
       "partners": "Seven.One Media (NEXT.GEN), SIMon mobile, Vodafone, Joyn, YouTube",
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "La marque télécom SIMon mobile (seconde marque de Vodafone) devient partenaire de la saison 4 de « THE RACE » sur Joyn, avec des placements de produits, un partenariat YouTube et une pub faite par un créateur du format.",
+      "concept": "La saison démarre en février 2027 avec la « Wildcard Challenge » et inclut quatre semaines de co-sponsoring sur Joyn, avec une publicité en pre-roll et mid-roll réalisée avec un créateur du format. Les épisodes arrivent sur YouTube deux semaines après leur première sur Joyn, sans chiffre publié."
     },
     {
       "id": "melitta-die-hoehle-der-loewen",
@@ -3128,7 +3101,9 @@ window.VEILLE_OPS = {
         }
       ],
       "partners": "Ad Alliance, VOX, Melitta",
-      "scope": "regie"
+      "scope": "regie",
+      "oneLine": "Melitta fait son entrée avec un premier placement de produit dans « Die Höhle der Löwen », l'émission de startups de VOX.",
+      "concept": "À vérifier : seul le titre du communiqué d'Ad Alliance du 14 septembre 2026 a pu être lu, la page de l'article n'a pas pu être ouverte. On ne sait donc pas encore comment le café apparaît à l'écran. Aucun chiffre ni détail de dispositif n'est disponible."
     }
   ]
 };

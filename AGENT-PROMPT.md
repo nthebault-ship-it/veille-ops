@@ -299,3 +299,17 @@ Le site affiche l'étiquette « Régie » ou « Inspiration » sur chaque carte,
 ---
 ## Règle de fraîcheur (V14)
 Ne retenir que des opérations lancées ou publiées dans les 60 derniers jours avant la date de la veille (le mois écoulé + le mois d'avant). Rien d'antérieur, même excellent. Le `label` porte la date précise ; elle doit être dans la fenêtre.
+
+
+## RÈGLES V17 (à appliquer à chaque édition)
+
+### 1. Aucune actu TF1
+Ne cherche JAMAIS d'actualités de TF1, TF1 PUB, TF1+, TF1 Info, des chaînes ou programmes du groupe TF1 : c'est notre propre maison, l'équipe les connaît. Si une opération concerne TF1, ignore-la. Les idées « Réinventer pour TF1 PUB » (forTF1, concepts, adaptations) restent évidemment autorisées.
+
+### 2. Deux champs obligatoires par opération : `oneLine` et `concept`
+Interprète le communiqué ou l'article avec soin : comprends ce qui a RÉELLEMENT été fait avant d'écrire. Rédige pour quelqu'un qui ne connaît ni la marque, ni l'émission, ni le jargon.
+- `oneLine` : UNE seule phrase (300 caractères max) qui dit concrètement qui a fait quoi, où, et comment. En la lisant seule, on doit comprendre le dispositif. Interdit : titre reformulé, formule vague (« 21 marques à l'honneur »), jargon non expliqué.
+  Mauvais : « Love Island USA : 21 marques ». Bon : « Sur Peacock, la régie a vendu à 21 marques une place dans Love Island USA : produits dans la villa, sponsoring de l'émission d'après, pubs tournées avec les candidats. »
+- `concept` : 2 à 3 phrases exactement, « c'est quoi le concept » : le principe, comment ça marche, ce que voit ou fait le public. Explique les termes techniques (un « rider », un « pre-roll »…). Les chiffres vont dans `results`.
+- Article partiel ou payant : fais au mieux, dis clairement ce qui est connu, écris « À vérifier » dans le texte et confidence = « À vérifier ». N'invente jamais un détail.
+`merge.js` refuse une opération sans ces deux champs ou avec un nombre de phrases incorrect.
