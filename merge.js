@@ -18,6 +18,7 @@ const slug = s => /^[a-z0-9]+(-[a-z0-9]+)*$/.test(s || '');
 const norm = s => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '');
 const url = u => /^https?:\/\/\S+$/i.test(u || '');
 
+let SECTORS = [];
 function checkOp(o, chapterKeys, where) {
   const w = `${where} ${o.id || '?'}`;
   if (!slug(o.id)) err(`${w}: id invalide (minuscules, chiffres, tirets)`);
@@ -36,6 +37,8 @@ function checkOp(o, chapterKeys, where) {
   if (!Array.isArray(o.concepts) || o.concepts.length !== 3) err(`${w}: concepts = exactement 3 pistes`);
   if (!['regie', 'inspiration'].includes(o.scope)) err(`${w}: scope = "regie" ou "inspiration"`);
   if (!Array.isArray(o.categories)) err(`${w}: categories doit être une liste`);
+  if (!o.country || typeof o.country !== 'string') err(`${w}: champ "country" manquant (pays en français, ou "International" pour une plateforme mondiale)`);
+  if (!Array.isArray(o.sectors) || !o.sectors.length || o.sectors.length > 4 || o.sectors.some(x => !SECTORS.includes(x))) err(`${w}: sectors = 1 à 4 secteurs pris dans la liste "sectors" de ops-data.js : ${SECTORS.join(' / ')}`);
 }
 function checkRetain(key, r, ids) {
   if (!r || !r.summary || !Array.isArray(r.points) || r.points.length !== 3) { err(`retain ${key}: summary + 3 points exigés`); return; }
@@ -45,6 +48,7 @@ function checkRetain(key, r, ids) {
   });
 }
 function checkAll(data) {
+  SECTORS = data.sectors || [];
   const keys = data.chapters.map(c => c.key), seen = new Set();
   data.ops.forEach(o => { if (seen.has(o.id)) err(`id en double : ${o.id}`); seen.add(o.id); checkOp(o, keys, 'op'); });
   data.chapters.forEach(c => c.retain && checkRetain(c.key, c.retain, seen));
@@ -65,6 +69,7 @@ if (D.editions.some(e => e.date === (E.edition || {}).date)) err('une édition e
 if (!Array.isArray(E.ops) || !E.ops.length) err('ops: au moins une opération');
 const existingIds = new Set(D.ops.map(o => o.id)), existingTitles = new Set(D.ops.map(o => norm(o.title)));
 const added = [], skipped = [];
+SECTORS = D.sectors || [];
 for (const o of (E.ops || [])) {
   o.image = '';                    // pas d'image sur les nouveautés : l'équipe les ajoute en mode édition
   o.edition = E.edition && E.edition.date;

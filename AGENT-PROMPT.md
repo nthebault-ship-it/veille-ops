@@ -313,3 +313,9 @@ Interprète le communiqué ou l'article avec soin : comprends ce qui a RÉELLEME
 - `concept` : 2 à 3 phrases exactement, « c'est quoi le concept » : le principe, comment ça marche, ce que voit ou fait le public. Explique les termes techniques (un « rider », un « pre-roll »…). Les chiffres vont dans `results`.
 - Article partiel ou payant : fais au mieux, dis clairement ce qui est connu, écris « À vérifier » dans le texte et confidence = « À vérifier ». N'invente jamais un détail.
 `merge.js` refuse une opération sans ces deux champs ou avec un nombre de phrases incorrect.
+
+### 3. Pays et secteur (filtres du site)
+Chaque opération porte deux champs utilisés par les filtres du site :
+- `country` : le pays de l'opération, en français (« France », « Royaume-Uni », « Allemagne »…). Pour une opération mondiale d'une plateforme, « International ».
+- `sectors` : 1 à 4 secteurs de l'annonceur, pris UNIQUEMENT dans la liste `sectors` de ops-data.js (Alimentation & boissons, Automobile, Beauté & hygiène, Distribution, Énergie & maison, Finance & assurance, Loisirs & tourisme, Divertissement & culture, Sport & bien-être, Télécoms & tech, Transport & voyage, Causes & institutions, Multi-annonceurs). « Multi-annonceurs » = une offre ou un format de régie ouvert à plusieurs marques ; si plusieurs marques identifiées y participent, ajoute aussi leurs secteurs.
+`merge.js` refuse une opération sans `country` ou avec un secteur hors liste.

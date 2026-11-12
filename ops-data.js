@@ -229,12 +229,32 @@ window.VEILLE_OPS = {
       ]
     }
   ],
+  "sectors": [
+    "Alimentation & boissons",
+    "Automobile",
+    "Beauté & hygiène",
+    "Distribution",
+    "Énergie & maison",
+    "Finance & assurance",
+    "Loisirs & tourisme",
+    "Divertissement & culture",
+    "Sport & bien-être",
+    "Télécoms & tech",
+    "Transport & voyage",
+    "Causes & institutions",
+    "Multi-annonceurs"
+  ],
   "ops": [
     {
       "id": "albert-heijn-lift-you-up",
       "chapter": "programme",
       "edition": "2026-11-10",
       "label": "Belgique · DPG Media · 2026",
+      "country": "Belgique",
+      "sectors": [
+        "Distribution",
+        "Alimentation & boissons"
+      ],
       "title": "Albert Heijn × Lift You Up",
       "image": "",
       "categories": [
@@ -333,6 +353,10 @@ window.VEILLE_OPS = {
       "chapter": "programme",
       "edition": "2026-11-10",
       "label": "Allemagne · RTL / Ad Alliance · 2025",
+      "country": "Allemagne",
+      "sectors": [
+        "Beauté & hygiène"
+      ],
       "title": "L'Oréal Paris × GZSZ",
       "image": "",
       "categories": [
@@ -435,6 +459,10 @@ window.VEILLE_OPS = {
       "chapter": "programme",
       "edition": "2026-11-10",
       "label": "Allemagne · Ad Alliance · mai 2025",
+      "country": "Allemagne",
+      "sectors": [
+        "Divertissement & culture"
+      ],
       "title": "Universal × Let's Dance",
       "image": "",
       "categories": [
@@ -523,6 +551,10 @@ window.VEILLE_OPS = {
       "chapter": "programme",
       "edition": "2026-11-10",
       "label": "Belgique · DPG Media · mars–juin 2025",
+      "country": "Belgique",
+      "sectors": [
+        "Loisirs & tourisme"
+      ],
       "title": "Disneyland Paris × Dancing With The Stars",
       "image": "",
       "categories": [
@@ -625,6 +657,10 @@ window.VEILLE_OPS = {
       "chapter": "programme",
       "edition": "2026-11-10",
       "label": "Royaume-Uni · ITV · avril (année non précisée)",
+      "country": "Royaume-Uni",
+      "sectors": [
+        "Énergie & maison"
+      ],
       "title": "Emmerdale × pompes à chaleur",
       "image": "",
       "categories": [
@@ -723,6 +759,10 @@ window.VEILLE_OPS = {
       "chapter": "programme",
       "edition": "2026-11-10",
       "label": "Belgique · RMB / RTBF · oct. 2025–janv. 2026",
+      "country": "Belgique",
+      "sectors": [
+        "Alimentation & boissons"
+      ],
       "title": "Sprite × PLAYGROUND",
       "image": "",
       "categories": [
@@ -808,6 +848,10 @@ window.VEILLE_OPS = {
       "chapter": "contenu",
       "edition": "2026-11-10",
       "label": "Royaume-Uni · Channel 4 · annonce du 5 nov. 2026",
+      "country": "Royaume-Uni",
+      "sectors": [
+        "Transport & voyage"
+      ],
       "title": "Rail Delivery Group × Train-ing It",
       "image": "",
       "categories": [
@@ -908,6 +952,11 @@ window.VEILLE_OPS = {
       "chapter": "contenu",
       "edition": "2026-11-10",
       "label": "Finlande · Sanoma · avril 2025",
+      "country": "Finlande",
+      "sectors": [
+        "Distribution",
+        "Énergie & maison"
+      ],
       "title": "Bauhaus × soirée électorale",
       "image": "",
       "categories": [
@@ -1005,6 +1054,10 @@ window.VEILLE_OPS = {
       "chapter": "contenu",
       "edition": "2026-11-10",
       "label": "France · CANAL+ Brand Solutions · dès avril 2026",
+      "country": "France",
+      "sectors": [
+        "Beauté & hygiène"
+      ],
       "title": "Avène × « Marquer l'Invisible »",
       "image": "",
       "categories": [
@@ -1091,6 +1144,10 @@ window.VEILLE_OPS = {
       "chapter": "contenu",
       "edition": "2026-11-10",
       "label": "Royaume-Uni · Channel 4 · janv.–févr. 2026",
+      "country": "Royaume-Uni",
+      "sectors": [
+        "Alimentation & boissons"
+      ],
       "title": "Happy Egg × « Tiny Farmers »",
       "image": "",
       "categories": [
@@ -1178,6 +1235,10 @@ window.VEILLE_OPS = {
       "chapter": "contenu",
       "edition": "2026-11-10",
       "label": "Canada · CBC · 8 semaines (publié en fév. 2026)",
+      "country": "Canada",
+      "sectors": [
+        "Transport & voyage"
+      ],
       "title": "VIA Rail × Andrew Phung",
       "image": "",
       "categories": [
@@ -1280,6 +1341,10 @@ window.VEILLE_OPS = {
       "chapter": "formats",
       "edition": "2026-11-10",
       "label": "Royaume-Uni · Channel 4 Sales · juin 2026",
+      "country": "Royaume-Uni",
+      "sectors": [
+        "Multi-annonceurs"
+      ],
       "title": "Channel 4 Enhance",
       "image": "",
       "categories": [
@@ -1378,6 +1443,10 @@ window.VEILLE_OPS = {
       "chapter": "formats",
       "edition": "2026-11-10",
       "label": "France · M6 Unlimited · mai 2026 (test)",
+      "country": "France",
+      "sectors": [
+        "Multi-annonceurs"
+      ],
       "title": "M6 : spots créés par l'IA",
       "image": "",
       "categories": [
@@ -1479,6 +1548,10 @@ window.VEILLE_OPS = {
       "chapter": "formats",
       "edition": "2026-11-10",
       "label": "Pays-Bas · Ster · 6 déc. 2025",
+      "country": "Pays-Bas",
+      "sectors": [
+        "Multi-annonceurs"
+      ],
       "title": "Ster : bloc de pub de Noël en prime time",
       "image": "",
       "categories": [],
@@ -1577,6 +1650,10 @@ window.VEILLE_OPS = {
       "chapter": "formats",
       "edition": "2026-11-10",
       "label": "Belgique · Ads & Data · date non précisée",
+      "country": "Belgique",
+      "sectors": [
+        "Automobile"
+      ],
       "title": "BMW iX3 : le compte à rebours",
       "image": "",
       "categories": [],
@@ -1670,6 +1747,13 @@ window.VEILLE_OPS = {
       "chapter": "social",
       "edition": "2026-11-10",
       "label": "États-Unis · Peacock · juin 2026",
+      "country": "États-Unis",
+      "sectors": [
+        "Multi-annonceurs",
+        "Beauté & hygiène",
+        "Télécoms & tech",
+        "Alimentation & boissons"
+      ],
       "title": "Love Island USA : 21 marques",
       "image": "",
       "categories": [
@@ -1774,6 +1858,10 @@ window.VEILLE_OPS = {
       "chapter": "social",
       "edition": "2026-11-10",
       "label": "États-Unis · Walmart × Disney · 26 oct. 2026",
+      "country": "États-Unis",
+      "sectors": [
+        "Distribution"
+      ],
       "title": "Walmart × The Muppets",
       "image": "",
       "categories": [
@@ -1856,6 +1944,10 @@ window.VEILLE_OPS = {
       "chapter": "social",
       "edition": "2026-11-10",
       "label": "Plateforme · HBO Max × Snapchat · dès sept. 2026",
+      "country": "International",
+      "sectors": [
+        "Divertissement & culture"
+      ],
       "title": "Harry Potter × Snapchat",
       "image": "",
       "categories": [
@@ -1948,6 +2040,10 @@ window.VEILLE_OPS = {
       "chapter": "social",
       "edition": "2026-11-10",
       "label": "États-Unis · Prime Video · juillet 2026",
+      "country": "États-Unis",
+      "sectors": [
+        "Beauté & hygiène"
+      ],
       "title": "L'Oréal × la série Elle",
       "image": "",
       "categories": [
@@ -2038,6 +2134,11 @@ window.VEILLE_OPS = {
       "chapter": "social",
       "edition": "2026-11-10",
       "label": "Plateforme · Netflix · 25 nov. 2026",
+      "country": "International",
+      "sectors": [
+        "Divertissement & culture",
+        "Finance & assurance"
+      ],
       "title": "Netflix × American Express",
       "image": "",
       "categories": [
@@ -2123,6 +2224,10 @@ window.VEILLE_OPS = {
       "chapter": "contenu",
       "edition": "2026-11-11",
       "label": "Royaume-Uni · Channel 4 Sales · 13 oct. 2026 (diffusion dès le 24 oct.)",
+      "country": "Royaume-Uni",
+      "sectors": [
+        "Beauté & hygiène"
+      ],
       "title": "Sol de Janeiro × The Guest List",
       "image": "",
       "categories": [
@@ -2213,6 +2318,10 @@ window.VEILLE_OPS = {
       "chapter": "formats",
       "edition": "2026-11-11",
       "label": "France · M6 Unlimited · annonce du 5 oct. 2026",
+      "country": "France",
+      "sectors": [
+        "Distribution"
+      ],
       "title": "Carrefour × M6+ : collection et HACK6",
       "image": "",
       "categories": [
@@ -2305,6 +2414,10 @@ window.VEILLE_OPS = {
       "chapter": "formats",
       "edition": "2026-11-11",
       "label": "France · M6 Unlimited · 14 sept. 2026 (campagne du 24 août au 30 sept.)",
+      "country": "France",
+      "sectors": [
+        "Sport & bien-être"
+      ],
       "title": "Fitness Park : l'Habillage Wallet",
       "image": "",
       "categories": [
@@ -2393,6 +2506,10 @@ window.VEILLE_OPS = {
       "chapter": "contenu",
       "edition": "2026-11-11",
       "label": "France · M6 Unlimited · annonce du 6 nov. 2026 (diffusion dès le 9 nov.)",
+      "country": "France",
+      "sectors": [
+        "Causes & institutions"
+      ],
       "title": "Made in France : ils inventent l'industrie de demain (saison 2)",
       "image": "",
       "categories": [
@@ -2487,6 +2604,10 @@ window.VEILLE_OPS = {
       "chapter": "formats",
       "edition": "2026-11-11",
       "label": "Royaume-Uni · Channel 4 Sales · 15 oct. 2026 (disponible dès janv. 2027)",
+      "country": "Royaume-Uni",
+      "sectors": [
+        "Multi-annonceurs"
+      ],
       "title": "Channel 4 : Instant Re4ch",
       "image": "",
       "categories": [
@@ -2587,6 +2708,10 @@ window.VEILLE_OPS = {
       "chapter": "contenu",
       "edition": "2026-11-11",
       "label": "Royaume-Uni · Channel 4 (A Comedy Thing) · 1er oct. 2026",
+      "country": "Royaume-Uni",
+      "sectors": [
+        "Causes & institutions"
+      ],
       "title": "Movember × Guess The Moustache",
       "image": "",
       "categories": [
@@ -2680,6 +2805,12 @@ window.VEILLE_OPS = {
       "chapter": "formats",
       "edition": "2026-11-11",
       "label": "Royaume-Uni · Channel 4 Sales · 2 oct. 2026",
+      "country": "Royaume-Uni",
+      "sectors": [
+        "Multi-annonceurs",
+        "Beauté & hygiène",
+        "Alimentation & boissons"
+      ],
       "title": "Channel 4 : la coupure des B Corp",
       "image": "",
       "categories": [
@@ -2772,6 +2903,10 @@ window.VEILLE_OPS = {
       "chapter": "contenu",
       "edition": "2026-11-11",
       "label": "Royaume-Uni · ITV · 9 nov. 2026 (diffusion début 2027)",
+      "country": "Royaume-Uni",
+      "sectors": [
+        "Alimentation & boissons"
+      ],
       "title": "Whitworths × Eat, Cook, Move with Davina",
       "image": "",
       "categories": [
@@ -2862,6 +2997,10 @@ window.VEILLE_OPS = {
       "chapter": "social",
       "edition": "2026-11-11",
       "label": "Allemagne · Seven.One Media (NEXT.GEN) · 5 nov. 2026",
+      "country": "Allemagne",
+      "sectors": [
+        "Alimentation & boissons"
+      ],
       "title": "Knorr × casting NEXT.GEN",
       "image": "",
       "categories": [
@@ -2946,6 +3085,10 @@ window.VEILLE_OPS = {
       "chapter": "programme",
       "edition": "2026-11-11",
       "label": "Allemagne · Seven.One Media (NEXT.GEN) · annonce du 5 nov. 2026 (dès févr. 2027)",
+      "country": "Allemagne",
+      "sectors": [
+        "Télécoms & tech"
+      ],
       "title": "SIMon mobile × THE RACE",
       "image": "",
       "categories": [
@@ -3030,6 +3173,10 @@ window.VEILLE_OPS = {
       "chapter": "programme",
       "edition": "2026-11-11",
       "label": "Allemagne · Ad Alliance / VOX · 14 sept. 2026",
+      "country": "Allemagne",
+      "sectors": [
+        "Alimentation & boissons"
+      ],
       "title": "Melitta × Die Höhle der Löwen",
       "image": "",
       "categories": [
