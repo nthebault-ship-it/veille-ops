@@ -319,3 +319,7 @@ Chaque opération porte deux champs utilisés par les filtres du site :
 - `country` : le pays de l'opération, en français (« France », « Royaume-Uni », « Allemagne »…). Pour une opération mondiale d'une plateforme, « International ».
 - `sectors` : 1 à 4 secteurs de l'annonceur, pris UNIQUEMENT dans la liste `sectors` de ops-data.js (Alimentation & boissons, Automobile, Beauté & hygiène, Distribution, Énergie & maison, Finance & assurance, Loisirs & tourisme, Divertissement & culture, Sport & bien-être, Télécoms & tech, Transport & voyage, Causes & institutions, Multi-annonceurs). « Multi-annonceurs » = une offre ou un format de régie ouvert à plusieurs marques ; si plusieurs marques identifiées y participent, ajoute aussi leurs secteurs.
 `merge.js` refuse une opération sans `country` ou avec un secteur hors liste.
+
+### 4. Visuel de l'article (`imageSrc`)
+Pour chaque opération, relève l'URL du visuel principal de l'article ou du communiqué que tu as lu : demande à WebFetch « l'URL exacte de l'image principale de l'article : la balise og:image si visible, sinon la première grande image du corps de l'article, en URL absolue ». Mets-la dans `imageSrc` (URL complète en http(s), d'une image JPG, PNG ou WebP de préférence). Si tu ne trouves pas d'image fiable, laisse `imageSrc` vide : n'invente jamais d'URL, et ne prends ni un logo du média, ni une photo d'auteur, ni une bannière de pub.
+Le champ `image` reste vide (c'est voulu) : sur le site, l'équipe clique sur « Image de l'article » en mode édition pour copier ce visuel sur l'hébergement.

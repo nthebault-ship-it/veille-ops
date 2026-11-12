@@ -37,6 +37,7 @@ function checkOp(o, chapterKeys, where) {
   if (!Array.isArray(o.concepts) || o.concepts.length !== 3) err(`${w}: concepts = exactement 3 pistes`);
   if (!['regie', 'inspiration'].includes(o.scope)) err(`${w}: scope = "regie" ou "inspiration"`);
   if (!Array.isArray(o.categories)) err(`${w}: categories doit être une liste`);
+  if (o.imageSrc !== undefined && o.imageSrc !== '' && !url(o.imageSrc)) err(`${w}: imageSrc doit être une URL http(s) d'image, ou vide`);
   if (!o.country || typeof o.country !== 'string') err(`${w}: champ "country" manquant (pays en français, ou "International" pour une plateforme mondiale)`);
   if (!Array.isArray(o.sectors) || !o.sectors.length || o.sectors.length > 4 || o.sectors.some(x => !SECTORS.includes(x))) err(`${w}: sectors = 1 à 4 secteurs pris dans la liste "sectors" de ops-data.js : ${SECTORS.join(' / ')}`);
 }
