@@ -30,7 +30,8 @@ function checkOp(o, chapterKeys, where) {
   if (!chapterKeys.includes(o.chapter)) err(`${w}: chapitre inconnu "${o.chapter}"`);
   if (!isDate(o.edition)) err(`${w}: edition doit être une date AAAA-MM-JJ`);
   for (const k of ['label', 'title', 'oneLine', 'concept', 'pitch', 'why', 'forTF1', 'adaptations', 'confidence']) if (!o[k] || typeof o[k] !== 'string') err(`${w}: champ "${k}" manquant`);
-  const nb = s => (String(s).match(/[.!?](\s|$)/g) || []).length;
+  const ABBR = /\b(janv|févr|fév|avr|juil|sept|oct|nov|déc|env|cf|etc|M|Mme|St|vs|n°)\.(?=\s)/gi;
+  const nb = s => (String(s).replace(ABBR, '$1').match(/[.!?](\s|$)/g) || []).length;
   if (typeof o.oneLine === 'string' && (nb(o.oneLine) !== 1 || o.oneLine.length > 300)) err(`${w}: oneLine = UNE seule phrase claire (300 caractères max)`);
   if (typeof o.concept === 'string' && (nb(o.concept) < 2 || nb(o.concept) > 3)) err(`${w}: concept = 2 à 3 phrases`);
   if (!Array.isArray(o.scores) || o.scores.length !== 5 || o.scores.some(n => !Number.isFinite(n) || n < 0 || n > 10)) err(`${w}: scores = 5 notes entre 0 et 10`);
