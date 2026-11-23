@@ -1,0 +1,148 @@
+{
+  "edition": {
+    "date": "2026-12-01",
+    "title": "Édition de novembre 2026",
+    "note": "Veille du 1er au 30 novembre 2026 : N opérations repérées (régies TV en priorité), dont N à vérifier."
+  },
+  "ops": [
+    {
+      "id": "exemple-marque-x-programme",
+      "chapter": "formats",
+      "edition": "2026-12-01",
+      "label": "Royaume-Uni · Channel 4 Sales · juin 2026",
+      "country": "Royaume-Uni",
+      "regie": "Channel 4",
+      "sectors": [
+        "Multi-annonceurs"
+      ],
+      "objectives": [
+        "Ventes & trafic",
+        "Engagement & communauté"
+      ],
+      "imageSrc": "https://assets-corporate.channel4.com/…/visuel-de-l-article.png",
+      "title": "Exemple × Programme",
+      "image": "",
+      "categories": [
+        "Personalization Power",
+        "Streaming Routine"
+      ],
+      "confidence": "Moyen",
+      "scores": [
+        6,
+        8,
+        9,
+        9,
+        8
+      ],
+      "facts": [
+        "Transforme une pub TV existante en format interactif sur le streaming, sans nouvelle production",
+        "4 formats : localisation, QR code, compte à rebours, carrousel de produits (technologie BrightLine)",
+        "Coût média : +3 £ de CPM ; première campagne en ligne en 5 jours ouvrés ; aucun résultat publié"
+      ],
+      "why": "Format publicitaire spécial sur l'inventaire streaming : la pub existante devient interactive.",
+      "forTF1": "(Une phrase : comment TF1 PUB pourrait s'en inspirer pour ses annonceurs.)",
+      "adaptations": "(Déclinaisons possibles par écran : TV, TF1+, social…)",
+      "sources": [
+        {
+          "label": "EGTA — cas créatif",
+          "url": "https://www.egta.com/channel-4-enhance/"
+        }
+      ],
+      "oneLine": "UNE phrase : qui a fait quoi, concrètement, compréhensible par n’importe qui, sans jargon.",
+      "concept": "C’est quoi le concept, en 2 ou 3 phrases : le principe, comment ça marche, ce que voit le public. Pas de chiffres ici.",
+      "pitch": "N'importe quel spot TV devient interactif sur le streaming de Channel 4, sans tourner une image de plus.",
+      "context": {
+        "Annonceurs": "Solmar Villas, Easy Bathrooms (exemples)",
+        "Objectif": "Rendre les spots existants actionnables sur la TV connectée",
+        "Régie": "Channel 4 Sales · technologie BrightLine",
+        "Format": "Enhance, 4 formats CTV",
+        "Lancement": "Juin 2026"
+      },
+      "steps": [
+        "L'annonceur choisit un format : géolocalisation, QR code, compte à rebours ou carrousel produits.",
+        "Il fournit son spot validé et les éléments (lien, couleurs, appel à l'action).",
+        "Channel 4 gère tout : média, adaptation, validation Clearcast, mise en ligne.",
+        "Aucuns frais de production : +3 £ de CPM.",
+        "Mesure possible avec Adalyser (visites et conversions liées à la diffusion)."
+      ],
+      "results": [
+        {
+          "n": "5 jours",
+          "l": "ouvrés entre la réservation et la mise en ligne (Solmar)"
+        },
+        {
+          "n": "+3 £",
+          "l": "de CPM, sans frais de production"
+        }
+      ],
+      "insights": [
+        {
+          "t": "Zéro production",
+          "d": "La barrière à l'entrée disparaît : on réutilise le spot existant."
+        },
+        {
+          "t": "La TV devient cliquable",
+          "d": "QR code et carrousel transforment l'écran en point de contact."
+        },
+        {
+          "t": "Un parcours simple",
+          "d": "Un seul interlocuteur gère tout, de l'adaptation à la mesure."
+        }
+      ],
+      "concepts": [
+        {
+          "b": "Petit budget",
+          "t": "(Titre de la piste)",
+          "d": "(Description en une ou deux phrases.)"
+        },
+        {
+          "b": "Budget moyen",
+          "t": "(Titre de la piste)",
+          "d": "(Description en une ou deux phrases.)"
+        },
+        {
+          "b": "Opération signature",
+          "t": "(Titre de la piste)",
+          "d": "(Description en une ou deux phrases.)"
+        }
+      ],
+      "partners": "Channel 4 Sales, BrightLine, Clearcast, Adalyser",
+      "quote": {
+        "q": "Enhance is a pivotal addition to our product suite.",
+        "who": "David Amodio, Channel 4"
+      },
+      "scope": "regie"
+    }
+  ],
+  "chapters": {
+    "formats": {
+      "question": "Comment réinventer l'écran publicitaire avec la tech et l'IA ?",
+      "retain": {
+        "summary": "(Une phrase de synthèse du chapitre.)",
+        "points": [
+          {
+            "t": "(Point 1)",
+            "d": "(Explication)",
+            "ops": [
+              "id-existant"
+            ]
+          },
+          {
+            "t": "(Point 2)",
+            "d": "(Explication)",
+            "ops": [
+              "id-existant"
+            ]
+          },
+          {
+            "t": "(Point 3)",
+            "d": "(Explication)",
+            "ops": [
+              "id-existant"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
