@@ -23,7 +23,7 @@ const slug = s => /^[a-z0-9]+(-[a-z0-9]+)*$/.test(s || '');
 const norm = s => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '');
 const url = u => /^https?:\/\/\S+$/i.test(u || '');
 
-let SECTORS = [], OBJECTIVES = [];
+let SECTORS = [], OBJECTIVES = [], MECHANICS = [];
 function checkOp(o, chapterKeys, where) {
   const w = `${where} ${o.id || '?'}`;
   if (!slug(o.id)) err(`${w}: id invalide (minuscules, chiffres, tirets)`);
@@ -43,6 +43,9 @@ function checkOp(o, chapterKeys, where) {
   if (!['regie', 'inspiration'].includes(o.scope)) err(`${w}: scope = "regie" ou "inspiration"`);
   if (!Array.isArray(o.categories)) err(`${w}: categories doit être une liste`);
   if (o.imageSrc !== undefined && o.imageSrc !== '' && !url(o.imageSrc)) err(`${w}: imageSrc doit être une URL http(s) d'image, ou vide`);
+  if (!['Élevé', 'Moyen'].includes(o.confidence)) err(`${w}: confidence doit être « Élevé » ou « Moyen ». Une opération qu'on n'a pas pu vérifier n'est pas publiée : mets-la dans « Pistes non publiées » du compte rendu.`);
+  if (/(à|a) v(é|e)rifier|lecture partielle|(à|a) confirmer|non confirm/i.test([o.oneLine, o.concept, o.pitch].concat(o.facts || []).join(' '))) err(`${w}: fiche incomplète (« à vérifier », « à confirmer », « lecture partielle ») : on ne publie que des opérations comprises et sourcées.`);
+  if (!Array.isArray(o.mechanics) || !o.mechanics.length || o.mechanics.length > 3 || o.mechanics.some(x => !MECHANICS.includes(x))) err(`${w}: mechanics = 1 à 3 mécaniques prises dans la liste : ${MECHANICS.join(' / ')}`);
   if (!o.regie || typeof o.regie !== 'string') err(`${w}: champ "regie" manquant (nom court de la régie ou de la plateforme, ex. « Channel 4 », « M6 Unlimited »)`);
   if (!Array.isArray(o.objectives) || !o.objectives.length || o.objectives.length > 3 || o.objectives.some(x => !OBJECTIVES.includes(x))) err(`${w}: objectives = 1 à 3 objectifs pris dans la liste : ${OBJECTIVES.join(' / ')}`);
   if (!o.country || typeof o.country !== 'string') err(`${w}: champ "country" manquant (pays en français, ou "International" pour une plateforme mondiale)`);
@@ -56,7 +59,7 @@ function checkRetain(key, r, ids) {
   });
 }
 function checkAll(data) {
-  SECTORS = data.sectors || []; OBJECTIVES = data.objectives || [];
+  SECTORS = data.sectors || []; OBJECTIVES = data.objectives || []; MECHANICS = data.mechanics || [];
   const keys = data.chapters.map(c => c.key), seen = new Set();
   data.ops.forEach(o => { if (seen.has(o.id)) err(`id en double : ${o.id}`); seen.add(o.id); checkOp(o, keys, 'op'); });
   data.chapters.forEach(c => c.retain && checkRetain(c.key, c.retain, seen));
@@ -88,7 +91,7 @@ if (D.editions.some(e => e.date === (E.edition || {}).date)) err('une édition e
 if (!Array.isArray(E.ops) || !E.ops.length) err('ops: au moins une opération');
 const existingIds = new Set(D.ops.map(o => o.id)), existingTitles = new Set(D.ops.map(o => norm(o.title)));
 const added = [], skipped = [];
-SECTORS = D.sectors || []; OBJECTIVES = D.objectives || [];
+SECTORS = D.sectors || []; OBJECTIVES = D.objectives || []; MECHANICS = D.mechanics || [];
 for (const o of (E.ops || [])) {
   o.image = '';                    // pas d'image sur les nouveautés : l'équipe les ajoute en mode édition
   o.edition = E.edition && E.edition.date;

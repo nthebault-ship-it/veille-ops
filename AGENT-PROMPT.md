@@ -337,3 +337,23 @@ Pour lire les opérations existantes : `node merge.js --export /tmp/donnees.plai
 
 ### 7. Concurrents directs
 Les opérations des régies françaises concurrentes (M6 Unlimited, France TV Publicité, CANAL+ Brand Solutions, RMC BFM Ads, Altice Media…) sont les plus importantes pour l'équipe : cherche-les en priorité (sans jamais chercher TF1), mets `country` = « France », et cite-les EN PREMIER dans ton compte rendu sous le titre « Concurrents directs ».
+
+## RÈGLES V23 — LA PERTINENCE AVANT TOUT (remplacent les règles précédentes sur les articles partiellement lisibles)
+
+L'équipe veut de la pertinence, pas du volume. Mieux vaut 4 opérations solides que 12 dont 3 bancales.
+
+### 8. On ne publie que ce qu'on a compris et vérifié
+Une opération n'entre sur le site que si TOUTES ces conditions sont réunies :
+1. tu as lu en entier au moins une source fiable qui décrit le dispositif (communiqué de la régie ou de la marque, cas EGTA, ou article de presse professionnelle lu en entier) ;
+2. tu peux expliquer concrètement ce que la marque a fait, en une phrase, sans « à vérifier » ni « à confirmer » ;
+3. il y a une vraie création pour la marque (intégration, épisode, format, programme, mécanique) : un simple parrainage, un parrainage-titre (« presented by »), un billboard ou un placement de logo ne suffit PAS ;
+4. le rôle exact de la marque est confirmé par la source (pas seulement supposé).
+
+Si une seule de ces conditions manque (article payant illisible, seul le titre est connu, rôle de la marque non confirmé, dispositif flou), l'opération N'EST PAS publiée. Mets-la dans une section « Pistes non publiées (à creuser) » de ton compte rendu, avec le lien et ce qui manque, pour que l'équipe décide.
+
+`confidence` ne peut valoir que « Élevé » (source primaire lue, faits recoupés) ou « Moyen » (source fiable lue en entier, quelques détails non publiés). « Faible » et « À vérifier » ne sont plus acceptés : `merge.js` refuse ces fiches, et refuse aussi tout texte contenant « à vérifier », « à confirmer » ou « lecture partielle ».
+
+Volume : aucun minimum. Si le mois est pauvre, publie 3 opérations ; si rien n'est assez solide, ne publie rien et explique pourquoi.
+
+### 9. Mécaniques (`mechanics`)
+1 à 3 mécaniques par opération, prises UNIQUEMENT dans la liste `mechanics` des données : Intégration au cœur du programme, Séries et programmes de marque, Réseaux sociaux et formats verticaux, Créateurs et influenceurs, QR code et interactivité, Achat direct (shoppable), Formats publicitaires réinventés, Événement et temps fort, IA générative. Choisis celles qui décrivent vraiment le dispositif (elles alimentent la page Tendances).
